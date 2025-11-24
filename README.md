@@ -5,6 +5,8 @@ A complete restaurant discovery and recommendation system implementing:
 - **Task 1.2**: Agentic Workflow with Multi-Agent System
 - **Task 2.1**: ML Rating Prediction Model
 - **Task 3.1**: REST API & Deployment
+## Watch the demo Video here https://drive.google.com/drive/folders/1GeEucpO5BdVCv6sSnQo6mhxRgFXQiFuP?usp=drive_link
+
 
 ## System Overview
 
