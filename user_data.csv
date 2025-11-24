@@ -1,0 +1,1001 @@
+user_id,age,home_location,dining_frequency,favorite_cuisines,preferred_price_range,dietary_restrictions,avg_rating_given,total_reviews_written
+10001,42,Sharjah,Daily,"Mexican, Emirati, Mediterranean",Medium,Halal,3.3,134
+10002,34,Dubai Marina,Bi-Weekly,"French, Mediterranean, Italian",Medium,None,3.57,98
+10003,57,Jumeirah Lakes Towers (JLT),Weekly,"French, Chinese",Medium,Gluten-Free,3.46,7
+10004,40,Palm Jumeirah,Bi-Weekly,"Emirati, Chinese",High,Vegan,4.04,23
+10005,43,Abu Dhabi,Bi-Weekly,"Emirati, French",Medium,Gluten-Free,4.32,121
+10006,27,Dubai Marina,Monthly,"Chinese, Mediterranean, Iranian",Medium,Keto,4.28,130
+10007,42,Dubai Marina,Weekly,Thai,Medium,Halal,3.39,15
+10008,49,Downtown Dubai,Bi-Weekly,"Mediterranean, Indian",Medium,Halal,3.46,143
+10009,32,Palm Jumeirah,Daily,Italian,Low,Halal,3.13,134
+10010,55,Jumeirah Lakes Towers (JLT),Daily,"Mexican, Mediterranean",Medium,Gluten-Free,3.76,72
+10011,41,Ajman,Daily,French,Luxury,None,4.18,140
+10012,55,Ajman,Weekly,"Indian, Italian",Low,Vegetarian,3.79,99
+10013,47,Palm Jumeirah,Rarely,"Italian, Indian, Mexican",Medium,None,3.91,84
+10014,25,Downtown Dubai,Rarely,Indian,Medium,Vegetarian,3.29,59
+10015,41,Jumeirah Lakes Towers (JLT),Monthly,"Seafood, Iranian",Luxury,Keto,3.89,105
+10016,50,Jumeirah Beach Residence (JBR),Weekly,"Indian, Emirati",Low,Vegan,3.99,89
+10017,56,Jumeirah Lakes Towers (JLT),Rarely,"Mexican, Seafood, Emirati",High,Vegan,3.88,110
+10018,37,Business Bay,Bi-Weekly,"Emirati, Mexican, Iranian",Luxury,Dairy-Free,3.51,92
+10019,25,Jumeirah Lakes Towers (JLT),Monthly,"Indian, Mexican",Medium,Gluten-Free,3.19,92
+10020,48,Ajman,Monthly,"Iranian, Seafood",High,Vegan,3.09,18
+10021,28,Abu Dhabi,Rarely,"Iranian, Italian",Medium,Vegetarian,3.06,5
+10022,34,Business Bay,Daily,"French, Mexican",High,Keto,3.78,85
+10023,21,Dubai Marina,Daily,"French, Emirati",Luxury,None,4.34,72
+10024,57,Abu Dhabi,Rarely,Chinese,Medium,Halal,3.39,128
+10025,23,Jumeirah Lakes Towers (JLT),Rarely,Mediterranean,Low,Gluten-Free,4.06,106
+10026,31,Downtown Dubai,Bi-Weekly,French,High,None,3.29,97
+10027,28,Palm Jumeirah,Bi-Weekly,Mexican,Medium,Vegan,4.37,53
+10028,37,Palm Jumeirah,Weekly,"Iranian, Emirati, Thai",Low,Vegetarian,3.74,91
+10029,60,Ajman,Rarely,"Emirati, Iranian, Italian",Medium,Vegan,3.86,92
+10030,33,Palm Jumeirah,Weekly,"Seafood, Mediterranean",Low,Vegetarian,3.33,68
+10031,50,Abu Dhabi,Weekly,"Indian, Chinese",Medium,Gluten-Free,3.49,136
+10032,35,Al Barsha,Bi-Weekly,"Chinese, Italian, Mexican",Luxury,Keto,4.21,53
+10033,22,Al Barsha,Daily,"Chinese, Thai, French",Luxury,Dairy-Free,4.03,44
+10034,37,Business Bay,Daily,"Indian, Seafood, French",Medium,Dairy-Free,3.8,143
+10035,55,Ajman,Daily,"Italian, French, Thai",Low,Halal,3.52,43
+10036,45,Palm Jumeirah,Weekly,"Chinese, French, Seafood",Medium,Vegetarian,4.36,121
+10037,40,Palm Jumeirah,Monthly,Thai,High,None,3.34,130
+10038,39,Jumeirah Lakes Towers (JLT),Monthly,Thai,High,Gluten-Free,4.3,141
+10039,45,Dubai Marina,Rarely,"Emirati, French, Mediterranean",High,Vegan,3.22,94
+10040,52,Business Bay,Rarely,"Indian, Chinese, Italian",Medium,Dairy-Free,4.24,72
+10041,31,Jumeirah Lakes Towers (JLT),Rarely,"Thai, Indian, French",High,Dairy-Free,4.46,147
+10042,39,Downtown Dubai,Monthly,Emirati,High,None,3.22,3
+10043,48,Downtown Dubai,Bi-Weekly,"Italian, Mexican",Low,Keto,3.2,130
+10044,42,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Chinese, Thai, Italian",Low,Keto,4.34,102
+10045,22,Dubai Marina,Daily,"Mexican, French, Chinese",Low,Gluten-Free,4.47,73
+10046,49,Business Bay,Bi-Weekly,"Mexican, Italian",Luxury,None,4.24,123
+10047,49,Downtown Dubai,Weekly,"Chinese, Iranian, Italian",Medium,Halal,3.04,69
+10048,59,Downtown Dubai,Rarely,Italian,Luxury,Halal,4.19,60
+10049,49,Ajman,Rarely,"Chinese, Mediterranean",High,Vegan,4.35,106
+10050,38,Palm Jumeirah,Daily,"Chinese, Mediterranean, Seafood",Low,Keto,3.15,75
+10051,33,Palm Jumeirah,Daily,"Chinese, French, Seafood",Low,Keto,3.83,69
+10052,57,Jumeirah Beach Residence (JBR),Bi-Weekly,"Iranian, Emirati",High,Vegetarian,4.44,14
+10053,25,Business Bay,Daily,Italian,Low,Halal,4.11,44
+10054,47,Jumeirah Beach Residence (JBR),Weekly,"Indian, Emirati, Chinese",Medium,Keto,4.05,42
+10055,26,Dubai Marina,Rarely,"Indian, Chinese, French",High,Keto,3.27,96
+10056,39,Ajman,Monthly,"French, Emirati",Low,Halal,3.74,12
+10057,47,Business Bay,Monthly,Thai,Low,Vegetarian,4.44,43
+10058,22,Jumeirah Lakes Towers (JLT),Monthly,French,Medium,Gluten-Free,4.2,51
+10059,21,Jumeirah Beach Residence (JBR),Daily,"Seafood, Thai",High,Dairy-Free,3.68,104
+10060,20,Jumeirah Lakes Towers (JLT),Monthly,Iranian,Luxury,Vegetarian,4.17,139
+10061,22,Ajman,Bi-Weekly,Chinese,Luxury,Vegan,4.13,143
+10062,37,Abu Dhabi,Daily,Thai,High,Halal,3.75,50
+10063,60,Dubai Marina,Weekly,"Italian, French",High,Dairy-Free,3.66,125
+10064,39,Jumeirah Beach Residence (JBR),Daily,"Seafood, Indian, Mexican",Medium,None,3.05,100
+10065,41,Abu Dhabi,Rarely,"Mexican, Emirati",Luxury,Vegetarian,4.34,40
+10066,23,Ajman,Bi-Weekly,"French, Emirati, Mediterranean",Luxury,Halal,3.1,149
+10067,45,Dubai Marina,Daily,"Mediterranean, Emirati",Low,None,4.27,95
+10068,45,Jumeirah Beach Residence (JBR),Monthly,Italian,Luxury,None,3.78,54
+10069,58,Business Bay,Daily,"French, Indian, Mediterranean",Low,Gluten-Free,3.89,132
+10070,46,Palm Jumeirah,Daily,"Chinese, Iranian",Luxury,Dairy-Free,3.74,36
+10071,54,Ajman,Monthly,"Iranian, Indian",High,Gluten-Free,3.98,77
+10072,26,Jumeirah Lakes Towers (JLT),Bi-Weekly,French,Luxury,Keto,3.29,108
+10073,27,Jumeirah Beach Residence (JBR),Daily,Seafood,Medium,Halal,3.97,96
+10074,58,Al Barsha,Bi-Weekly,Chinese,High,None,4.13,47
+10075,25,Downtown Dubai,Monthly,Mediterranean,Medium,None,3.9,4
+10076,42,Jumeirah Beach Residence (JBR),Rarely,Mediterranean,Medium,Dairy-Free,3.08,57
+10077,23,Palm Jumeirah,Bi-Weekly,"Indian, Mediterranean",High,Vegan,3.77,95
+10078,20,Downtown Dubai,Bi-Weekly,"Indian, French",Luxury,Vegan,4.36,7
+10079,34,Palm Jumeirah,Rarely,"Indian, Italian, Thai",Luxury,None,3.37,70
+10080,59,Sharjah,Rarely,"Mexican, Italian",Low,Vegetarian,3.56,127
+10081,36,Downtown Dubai,Weekly,"Mediterranean, Thai, French",High,Keto,3.53,147
+10082,45,Abu Dhabi,Rarely,"Seafood, Emirati",Low,Vegan,4.42,149
+10083,30,Ajman,Monthly,"Iranian, Emirati, Mediterranean",Low,Vegetarian,3.39,88
+10084,25,Abu Dhabi,Monthly,Indian,Medium,Vegetarian,3.23,63
+10085,47,Dubai Marina,Rarely,"Thai, Emirati, Iranian",Medium,Keto,3.13,126
+10086,54,Abu Dhabi,Daily,"Emirati, Italian, Iranian",Medium,Gluten-Free,3.63,129
+10087,28,Dubai Marina,Weekly,"French, Iranian, Chinese",Low,None,3.63,122
+10088,28,Jumeirah Lakes Towers (JLT),Rarely,Italian,High,Vegetarian,3.51,25
+10089,43,Jumeirah Beach Residence (JBR),Monthly,Iranian,Low,Vegan,3.19,32
+10090,30,Sharjah,Weekly,"Emirati, Chinese",Luxury,Keto,4.12,144
+10091,39,Dubai Marina,Daily,"Indian, Italian, Mexican",High,Gluten-Free,3.39,1
+10092,21,Jumeirah Beach Residence (JBR),Monthly,Thai,Luxury,Halal,3.28,149
+10093,38,Dubai Marina,Monthly,"Italian, Mexican, Seafood",Medium,Vegetarian,4.5,92
+10094,59,Business Bay,Daily,"Seafood, Iranian",High,Gluten-Free,3.36,119
+10095,60,Downtown Dubai,Rarely,"Iranian, Italian",Low,Keto,3.54,113
+10096,30,Dubai Marina,Bi-Weekly,Iranian,Medium,Keto,4.43,25
+10097,45,Business Bay,Bi-Weekly,French,Luxury,Dairy-Free,3.31,67
+10098,42,Palm Jumeirah,Daily,"Mexican, Italian",Medium,None,3.08,63
+10099,59,Dubai Marina,Bi-Weekly,"Iranian, Indian",Luxury,Gluten-Free,4.44,142
+10100,45,Business Bay,Weekly,"Mediterranean, Thai",Medium,None,3.93,55
+10101,53,Abu Dhabi,Daily,"Italian, Mexican, Seafood",High,Gluten-Free,3.6,123
+10102,38,Palm Jumeirah,Monthly,Mediterranean,High,Dairy-Free,3.71,18
+10103,47,Jumeirah Beach Residence (JBR),Daily,Mediterranean,Luxury,Vegan,4.32,141
+10104,43,Sharjah,Rarely,Seafood,Medium,Halal,3.17,132
+10105,49,Palm Jumeirah,Bi-Weekly,"Iranian, Mediterranean, French",Medium,Gluten-Free,4.45,24
+10106,34,Jumeirah Beach Residence (JBR),Bi-Weekly,Iranian,Luxury,Vegan,3.69,121
+10107,24,Jumeirah Beach Residence (JBR),Bi-Weekly,"Thai, Emirati, French",Luxury,Dairy-Free,3.26,113
+10108,39,Al Barsha,Weekly,Seafood,High,Vegetarian,4.2,96
+10109,26,Dubai Marina,Monthly,"Emirati, Italian",High,Halal,3.44,56
+10110,35,Downtown Dubai,Monthly,"French, Mexican, Italian",High,Dairy-Free,4.25,73
+10111,57,Abu Dhabi,Monthly,"Indian, Chinese",Medium,Halal,3.32,16
+10112,32,Palm Jumeirah,Monthly,"Emirati, Seafood",Luxury,Dairy-Free,4.12,69
+10113,59,Jumeirah Beach Residence (JBR),Weekly,Indian,Luxury,Vegan,3.59,47
+10114,34,Dubai Marina,Weekly,Italian,Medium,None,3.46,129
+10115,56,Sharjah,Monthly,"Emirati, Seafood",High,Halal,3.14,125
+10116,53,Jumeirah Beach Residence (JBR),Daily,Mexican,Medium,Halal,3.35,22
+10117,59,Sharjah,Weekly,"Italian, Indian, Emirati",Luxury,Halal,4.33,81
+10118,32,Downtown Dubai,Daily,"Seafood, Thai",Luxury,Vegetarian,3.22,43
+10119,31,Ajman,Monthly,"Seafood, Italian, Chinese",Medium,Halal,4.19,80
+10120,32,Downtown Dubai,Monthly,Seafood,Medium,Gluten-Free,4.42,1
+10121,54,Abu Dhabi,Weekly,"Chinese, French",Medium,Gluten-Free,3.67,42
+10122,24,Sharjah,Monthly,Iranian,Luxury,Dairy-Free,3.58,43
+10123,42,Jumeirah Beach Residence (JBR),Monthly,"Indian, Chinese, Mexican",Medium,Vegan,3.21,82
+10124,20,Dubai Marina,Weekly,"Emirati, Iranian, Mediterranean",Low,Vegetarian,3.57,120
+10125,43,Palm Jumeirah,Rarely,"Mediterranean, Italian, Indian",High,Vegan,3.03,107
+10126,58,Palm Jumeirah,Monthly,"Mediterranean, Seafood",Medium,Halal,4.48,19
+10127,43,Jumeirah Lakes Towers (JLT),Daily,"Chinese, Thai, Italian",Low,Gluten-Free,3.86,32
+10128,25,Dubai Marina,Bi-Weekly,Mediterranean,High,None,3.25,40
+10129,22,Al Barsha,Weekly,"Chinese, Mediterranean, Emirati",High,Halal,3.49,95
+10130,21,Sharjah,Rarely,Thai,High,Keto,3.26,128
+10131,33,Abu Dhabi,Rarely,Chinese,High,Keto,3.76,41
+10132,43,Palm Jumeirah,Monthly,Mediterranean,Medium,Keto,3.23,16
+10133,59,Al Barsha,Daily,"Indian, Emirati",Luxury,Gluten-Free,3.39,98
+10134,56,Palm Jumeirah,Weekly,"Mexican, Seafood",Low,Keto,4.38,115
+10135,56,Downtown Dubai,Bi-Weekly,Indian,Medium,Dairy-Free,4.12,27
+10136,23,Business Bay,Daily,"Italian, Mediterranean, Thai",Medium,Vegan,4.49,25
+10137,30,Jumeirah Lakes Towers (JLT),Monthly,Iranian,Luxury,Vegetarian,3.66,8
+10138,48,Al Barsha,Monthly,"Thai, Italian",Low,Keto,3.67,48
+10139,43,Ajman,Weekly,"Mexican, Seafood, Italian",Luxury,Gluten-Free,3.42,116
+10140,53,Business Bay,Weekly,"French, Seafood, Mediterranean",Low,Keto,3.64,36
+10141,22,Abu Dhabi,Bi-Weekly,"Thai, Mexican, French",Medium,None,3.25,86
+10142,54,Jumeirah Beach Residence (JBR),Bi-Weekly,Iranian,High,Vegetarian,3.56,108
+10143,51,Downtown Dubai,Rarely,Thai,Luxury,Dairy-Free,3.58,35
+10144,59,Abu Dhabi,Rarely,Emirati,Low,Halal,3.67,76
+10145,44,Sharjah,Bi-Weekly,"Indian, Italian",Luxury,Keto,3.51,105
+10146,22,Palm Jumeirah,Bi-Weekly,"Indian, Mediterranean, Thai",Luxury,Dairy-Free,3.35,87
+10147,55,Al Barsha,Weekly,"French, Chinese, Emirati",Low,Halal,3.12,109
+10148,21,Ajman,Monthly,"Mediterranean, Seafood, Italian",Medium,Gluten-Free,4.32,69
+10149,52,Palm Jumeirah,Weekly,"Mediterranean, Seafood, Mexican",Luxury,Gluten-Free,4.13,10
+10150,51,Abu Dhabi,Weekly,"Emirati, Chinese, Seafood",Medium,Dairy-Free,4.32,119
+10151,25,Jumeirah Lakes Towers (JLT),Daily,Mexican,Luxury,Gluten-Free,3.56,113
+10152,20,Business Bay,Monthly,"French, Emirati",High,Keto,3.09,17
+10153,29,Jumeirah Lakes Towers (JLT),Rarely,"Mediterranean, Iranian",High,Halal,4.31,7
+10154,37,Al Barsha,Daily,Iranian,Luxury,None,3.28,60
+10155,20,Jumeirah Lakes Towers (JLT),Rarely,Thai,Luxury,Vegetarian,4.08,64
+10156,29,Al Barsha,Daily,French,Luxury,Dairy-Free,3.71,24
+10157,44,Al Barsha,Daily,"Emirati, Italian",Luxury,Vegan,3.97,21
+10158,34,Downtown Dubai,Daily,"Indian, Italian",Luxury,Vegan,4.14,103
+10159,41,Dubai Marina,Rarely,"Mexican, Chinese, Italian",Medium,Vegetarian,3.34,9
+10160,29,Dubai Marina,Weekly,"Iranian, Indian",High,Keto,4.16,149
+10161,46,Business Bay,Rarely,"Mexican, Italian",Low,Gluten-Free,4.37,95
+10162,34,Sharjah,Bi-Weekly,Thai,Medium,Halal,3.84,23
+10163,60,Business Bay,Bi-Weekly,"Indian, Seafood, Chinese",High,Vegetarian,3.13,145
+10164,42,Abu Dhabi,Daily,Seafood,Medium,Vegetarian,3.15,72
+10165,41,Dubai Marina,Bi-Weekly,Emirati,Luxury,Vegetarian,3.62,137
+10166,45,Dubai Marina,Rarely,"Seafood, Iranian, Emirati",Medium,Dairy-Free,4.17,66
+10167,27,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Mexican, Mediterranean, Iranian",Medium,Dairy-Free,4.02,65
+10168,57,Palm Jumeirah,Daily,"Thai, Chinese, Emirati",High,Gluten-Free,3.21,93
+10169,49,Dubai Marina,Daily,Chinese,Low,Vegan,3.1,51
+10170,24,Abu Dhabi,Weekly,"Indian, Iranian",High,Dairy-Free,3.13,57
+10171,56,Business Bay,Weekly,"Iranian, Emirati, Seafood",High,Gluten-Free,3.47,124
+10172,37,Downtown Dubai,Bi-Weekly,Emirati,High,Vegetarian,3.46,87
+10173,36,Downtown Dubai,Bi-Weekly,Indian,High,Keto,3.74,119
+10174,51,Abu Dhabi,Daily,"Mediterranean, Chinese",Medium,Halal,3.63,63
+10175,45,Downtown Dubai,Weekly,"Indian, Mexican",Luxury,None,3.54,147
+10176,37,Palm Jumeirah,Weekly,"Seafood, Chinese",Luxury,None,3.93,68
+10177,58,Al Barsha,Weekly,Indian,Low,Keto,3.24,70
+10178,36,Jumeirah Beach Residence (JBR),Bi-Weekly,"Emirati, Italian",High,Keto,4.45,49
+10179,59,Ajman,Daily,"Mediterranean, Emirati",Medium,Vegan,3.63,32
+10180,40,Business Bay,Bi-Weekly,"Mexican, Italian, French",Medium,Halal,3.27,74
+10181,52,Jumeirah Beach Residence (JBR),Weekly,Mexican,Medium,None,3.79,60
+10182,28,Ajman,Bi-Weekly,"Chinese, Mediterranean, Indian",Low,Keto,3.41,129
+10183,57,Dubai Marina,Daily,Emirati,High,Gluten-Free,4.44,79
+10184,53,Palm Jumeirah,Monthly,"French, Indian, Iranian",Luxury,Dairy-Free,3.77,120
+10185,59,Dubai Marina,Rarely,"Emirati, Seafood, Chinese",Luxury,Dairy-Free,3.73,111
+10186,45,Sharjah,Monthly,Iranian,Low,Vegan,4.04,101
+10187,39,Jumeirah Lakes Towers (JLT),Monthly,"Iranian, Mexican",Medium,None,3.45,93
+10188,48,Abu Dhabi,Rarely,"Mexican, Chinese",Luxury,Halal,4.36,52
+10189,42,Abu Dhabi,Monthly,Seafood,Low,Halal,4.24,50
+10190,28,Jumeirah Beach Residence (JBR),Weekly,"Thai, Italian",Luxury,Dairy-Free,4.12,61
+10191,51,Business Bay,Daily,"Iranian, Mediterranean, Indian",High,None,4.37,46
+10192,21,Dubai Marina,Monthly,Italian,Luxury,Vegetarian,4.14,108
+10193,30,Ajman,Monthly,"French, Emirati",Low,Vegan,4.25,92
+10194,29,Al Barsha,Bi-Weekly,"Italian, Mediterranean, Emirati",High,Keto,3.99,81
+10195,27,Jumeirah Beach Residence (JBR),Bi-Weekly,"Emirati, Thai",Luxury,None,4.46,113
+10196,54,Palm Jumeirah,Rarely,"Thai, Iranian",Low,Vegetarian,3.6,147
+10197,31,Abu Dhabi,Weekly,"Iranian, French",Medium,None,3.26,29
+10198,32,Al Barsha,Daily,Indian,Low,Gluten-Free,4.32,133
+10199,48,Abu Dhabi,Daily,Iranian,High,Gluten-Free,3.77,22
+10200,51,Dubai Marina,Daily,"Seafood, Chinese",Medium,Halal,3.55,134
+10201,30,Al Barsha,Weekly,"Indian, Emirati",Medium,Dairy-Free,3.69,31
+10202,50,Ajman,Daily,"Thai, Seafood, Mexican",Luxury,Keto,4.45,111
+10203,57,Ajman,Bi-Weekly,"Chinese, French, Indian",High,None,3.82,87
+10204,37,Sharjah,Rarely,Emirati,Medium,Dairy-Free,3.05,115
+10205,23,Jumeirah Beach Residence (JBR),Weekly,"Indian, French",Low,Vegan,3.2,124
+10206,22,Jumeirah Beach Residence (JBR),Bi-Weekly,Iranian,Low,Keto,3.77,60
+10207,28,Dubai Marina,Rarely,Emirati,Low,Halal,3.17,6
+10208,39,Palm Jumeirah,Rarely,"Italian, Iranian, Mediterranean",Medium,Gluten-Free,4.45,15
+10209,49,Business Bay,Bi-Weekly,"French, Thai",Low,Dairy-Free,4.02,65
+10210,30,Al Barsha,Daily,"Mediterranean, French",High,Halal,4.02,82
+10211,27,Downtown Dubai,Bi-Weekly,"Mexican, Thai",High,Dairy-Free,4.24,11
+10212,59,Business Bay,Bi-Weekly,Emirati,High,Halal,3.08,19
+10213,36,Jumeirah Beach Residence (JBR),Bi-Weekly,"Italian, Mexican, Emirati",Low,Vegetarian,3.89,46
+10214,60,Ajman,Monthly,Thai,High,Gluten-Free,4.22,8
+10215,42,Dubai Marina,Weekly,Seafood,Medium,Gluten-Free,3.64,24
+10216,51,Business Bay,Daily,"Indian, Iranian",Low,None,3.87,68
+10217,53,Jumeirah Lakes Towers (JLT),Monthly,"Chinese, Thai, Italian",Low,Gluten-Free,4.18,116
+10218,37,Jumeirah Beach Residence (JBR),Monthly,French,Medium,Gluten-Free,3.3,87
+10219,35,Jumeirah Beach Residence (JBR),Weekly,"Emirati, Indian",Low,None,3.76,22
+10220,20,Jumeirah Beach Residence (JBR),Weekly,"Mediterranean, Iranian, Indian",Medium,Halal,4.27,117
+10221,35,Abu Dhabi,Rarely,"Thai, Mexican",Medium,Keto,3.87,124
+10222,23,Business Bay,Monthly,"Thai, Iranian, Emirati",Medium,Keto,3.18,61
+10223,47,Sharjah,Rarely,Chinese,Low,Vegan,3.96,3
+10224,52,Palm Jumeirah,Rarely,"Seafood, Mexican",Medium,Dairy-Free,4.46,141
+10225,42,Ajman,Rarely,Mediterranean,Medium,Vegan,3.02,74
+10226,54,Palm Jumeirah,Bi-Weekly,Mexican,High,Halal,3.93,8
+10227,44,Palm Jumeirah,Daily,Chinese,Luxury,Vegan,3.51,128
+10228,53,Sharjah,Daily,Thai,Medium,Halal,4.28,86
+10229,32,Jumeirah Beach Residence (JBR),Bi-Weekly,Emirati,Low,Dairy-Free,3.47,12
+10230,39,Downtown Dubai,Weekly,"Indian, Seafood",High,Halal,3.4,1
+10231,33,Jumeirah Beach Residence (JBR),Daily,"Iranian, Thai",High,None,4.26,70
+10232,42,Sharjah,Weekly,"Mexican, Italian, Mediterranean",Low,Vegan,4.24,67
+10233,36,Ajman,Monthly,"Thai, Indian, Iranian",Luxury,Gluten-Free,4.02,44
+10234,32,Jumeirah Lakes Towers (JLT),Rarely,"Mediterranean, Chinese, French",Luxury,Vegan,3.2,149
+10235,36,Dubai Marina,Rarely,"Thai, Emirati",Low,Keto,3.39,53
+10236,50,Downtown Dubai,Rarely,Indian,Medium,Vegetarian,4.16,132
+10237,54,Business Bay,Daily,"Thai, Iranian, Seafood",High,Gluten-Free,4.43,123
+10238,23,Sharjah,Bi-Weekly,"Mediterranean, Indian, French",Medium,Gluten-Free,4.17,79
+10239,21,Abu Dhabi,Weekly,Indian,Luxury,Keto,4.13,80
+10240,29,Business Bay,Daily,"Chinese, French",Luxury,None,3.02,41
+10241,52,Business Bay,Bi-Weekly,"Mediterranean, Chinese",High,Halal,3.99,144
+10242,44,Jumeirah Lakes Towers (JLT),Rarely,"Iranian, Indian",Low,Dairy-Free,3.76,37
+10243,36,Jumeirah Lakes Towers (JLT),Bi-Weekly,Chinese,Medium,None,3.27,108
+10244,23,Jumeirah Lakes Towers (JLT),Monthly,Iranian,High,None,3.67,89
+10245,28,Jumeirah Beach Residence (JBR),Bi-Weekly,Italian,Luxury,Vegan,3.85,127
+10246,51,Al Barsha,Weekly,"Seafood, Chinese, Mexican",Medium,Dairy-Free,3.92,45
+10247,28,Abu Dhabi,Monthly,Iranian,Medium,Vegan,3.76,119
+10248,58,Downtown Dubai,Weekly,"Emirati, French",Low,Halal,4.21,111
+10249,31,Dubai Marina,Daily,Thai,Low,Gluten-Free,3.41,78
+10250,56,Ajman,Bi-Weekly,Mexican,High,Dairy-Free,3.56,118
+10251,22,Palm Jumeirah,Daily,"Indian, Emirati, Italian",Luxury,Vegan,4.48,148
+10252,31,Jumeirah Beach Residence (JBR),Bi-Weekly,"Chinese, Mexican",Medium,Gluten-Free,4.31,103
+10253,20,Downtown Dubai,Bi-Weekly,"Mexican, Chinese",High,Keto,3.08,102
+10254,44,Jumeirah Beach Residence (JBR),Rarely,Mexican,Medium,None,3.91,90
+10255,57,Ajman,Weekly,"Iranian, French, Seafood",Low,Vegetarian,3.58,107
+10256,23,Sharjah,Bi-Weekly,French,Luxury,Vegetarian,4.37,1
+10257,43,Al Barsha,Weekly,Mediterranean,Low,Halal,3.91,48
+10258,51,Dubai Marina,Rarely,"Emirati, Chinese, Mediterranean",Medium,Gluten-Free,3.48,124
+10259,39,Downtown Dubai,Rarely,"Iranian, Emirati",High,None,4.27,70
+10260,60,Dubai Marina,Rarely,"Seafood, French",Low,Dairy-Free,3.78,114
+10261,35,Palm Jumeirah,Weekly,Italian,Medium,Gluten-Free,3.76,69
+10262,23,Sharjah,Bi-Weekly,"Emirati, Iranian",Medium,Vegetarian,4.29,110
+10263,23,Al Barsha,Monthly,Mediterranean,High,Keto,3.36,118
+10264,53,Jumeirah Lakes Towers (JLT),Daily,"Mediterranean, Indian, Thai",Luxury,Keto,3.5,44
+10265,32,Sharjah,Bi-Weekly,Seafood,Luxury,Halal,3.69,117
+10266,55,Downtown Dubai,Rarely,"Indian, Thai",Medium,Vegetarian,4.39,32
+10267,57,Ajman,Rarely,"French, Italian, Mexican",Luxury,None,3.9,141
+10268,50,Business Bay,Weekly,"Iranian, Indian",High,Vegetarian,3.85,147
+10269,20,Abu Dhabi,Monthly,"Iranian, Thai, Indian",High,Keto,3.12,135
+10270,35,Palm Jumeirah,Bi-Weekly,Italian,Low,Vegan,4.5,58
+10271,54,Ajman,Monthly,"Mediterranean, French",Medium,Keto,3.37,81
+10272,47,Al Barsha,Daily,Indian,High,Vegan,4.23,69
+10273,45,Business Bay,Rarely,"Italian, Thai",High,Dairy-Free,3.98,114
+10274,55,Ajman,Daily,"Mediterranean, Italian",Low,Dairy-Free,4.29,5
+10275,54,Downtown Dubai,Bi-Weekly,"Emirati, Mediterranean, Mexican",High,Keto,3.69,24
+10276,25,Abu Dhabi,Weekly,Thai,Low,Keto,4.27,62
+10277,35,Sharjah,Weekly,"Chinese, Indian",Medium,Vegan,3.2,51
+10278,36,Al Barsha,Daily,"Thai, Emirati, Mediterranean",Medium,Vegetarian,3.28,95
+10279,50,Al Barsha,Rarely,Mexican,Low,Vegetarian,3.86,11
+10280,50,Sharjah,Rarely,"Iranian, Thai, Emirati",Medium,Dairy-Free,3.08,13
+10281,49,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Seafood, Mexican, Iranian",Medium,Vegan,4.35,117
+10282,45,Ajman,Weekly,"Mexican, Indian",High,Dairy-Free,3.94,95
+10283,41,Sharjah,Rarely,"French, Emirati, Iranian",Luxury,Gluten-Free,3.29,143
+10284,42,Ajman,Bi-Weekly,"Thai, Chinese, Indian",Luxury,Dairy-Free,4.49,62
+10285,57,Dubai Marina,Monthly,"French, Thai, Mexican",Low,Dairy-Free,3.83,75
+10286,59,Jumeirah Lakes Towers (JLT),Daily,"Mexican, Chinese",Luxury,Gluten-Free,3.19,110
+10287,28,Jumeirah Beach Residence (JBR),Weekly,Mexican,Medium,Vegetarian,3.74,5
+10288,25,Abu Dhabi,Weekly,"Italian, French, Chinese",Low,Vegan,4.5,20
+10289,37,Al Barsha,Monthly,"Mediterranean, French",Low,Gluten-Free,3.23,147
+10290,30,Sharjah,Rarely,Iranian,Medium,Halal,4.13,35
+10291,56,Business Bay,Weekly,Thai,Luxury,Vegetarian,3.5,44
+10292,58,Sharjah,Rarely,"Indian, Italian",Luxury,Vegan,4.38,17
+10293,38,Business Bay,Daily,"Thai, Italian",High,Keto,4.07,107
+10294,25,Jumeirah Beach Residence (JBR),Weekly,Thai,Medium,Halal,3.78,107
+10295,34,Al Barsha,Daily,Thai,High,Gluten-Free,4.29,87
+10296,38,Abu Dhabi,Bi-Weekly,Thai,Low,Gluten-Free,3.74,5
+10297,54,Ajman,Rarely,"Mediterranean, Chinese, Thai",Medium,Gluten-Free,3.56,20
+10298,27,Business Bay,Weekly,"Iranian, Mediterranean, Seafood",Medium,Gluten-Free,3.24,110
+10299,54,Downtown Dubai,Bi-Weekly,"French, Mexican, Iranian",Luxury,Keto,3.52,133
+10300,32,Business Bay,Rarely,"Thai, French",Luxury,Dairy-Free,3.77,45
+10301,28,Ajman,Monthly,"Emirati, Mediterranean",Medium,None,3.89,118
+10302,34,Business Bay,Daily,"Emirati, Seafood, Iranian",Low,None,3.38,83
+10303,42,Dubai Marina,Weekly,"Italian, Mexican",Low,Halal,4.16,15
+10304,54,Sharjah,Daily,Mediterranean,Luxury,Dairy-Free,4.47,12
+10305,27,Dubai Marina,Rarely,"Thai, Chinese",Medium,Vegan,4.37,121
+10306,21,Sharjah,Weekly,"Mediterranean, Chinese",High,Vegetarian,3.16,140
+10307,27,Jumeirah Lakes Towers (JLT),Daily,Indian,Low,Vegetarian,3.68,21
+10308,24,Ajman,Bi-Weekly,"Seafood, Mediterranean, Chinese",Medium,Dairy-Free,3.58,139
+10309,51,Dubai Marina,Weekly,Chinese,Medium,Vegetarian,3.01,38
+10310,40,Business Bay,Weekly,Chinese,Luxury,Halal,3.95,103
+10311,38,Downtown Dubai,Bi-Weekly,Seafood,Medium,Gluten-Free,3.23,37
+10312,28,Dubai Marina,Bi-Weekly,Iranian,High,None,3.27,102
+10313,43,Dubai Marina,Weekly,"Chinese, Seafood, Iranian",High,None,4.01,39
+10314,42,Al Barsha,Bi-Weekly,"Mexican, Chinese, Seafood",High,Dairy-Free,3.67,145
+10315,44,Jumeirah Beach Residence (JBR),Weekly,Mexican,Low,Vegetarian,4.35,6
+10316,22,Abu Dhabi,Weekly,"Chinese, Italian, Seafood",High,None,3.45,5
+10317,39,Ajman,Monthly,"Chinese, Mexican, Italian",High,Gluten-Free,4.04,87
+10318,59,Downtown Dubai,Rarely,"Mediterranean, Indian",Luxury,None,4.0,69
+10319,38,Palm Jumeirah,Bi-Weekly,"Iranian, Chinese",High,Vegetarian,4.42,68
+10320,43,Ajman,Monthly,"Mediterranean, Thai, Iranian",Luxury,None,4.03,145
+10321,56,Abu Dhabi,Weekly,"Mexican, Thai, Indian",Low,Dairy-Free,3.61,21
+10322,48,Business Bay,Weekly,"Italian, Chinese",Low,Gluten-Free,3.2,114
+10323,57,Ajman,Bi-Weekly,Emirati,High,Halal,4.3,16
+10324,39,Ajman,Rarely,Mexican,High,None,3.09,87
+10325,34,Jumeirah Lakes Towers (JLT),Rarely,Italian,Medium,Vegan,3.76,65
+10326,27,Sharjah,Bi-Weekly,"Emirati, Thai, Italian",Low,Keto,4.15,85
+10327,32,Downtown Dubai,Rarely,French,Luxury,Vegan,4.02,95
+10328,52,Jumeirah Lakes Towers (JLT),Daily,Mediterranean,Medium,Gluten-Free,4.22,53
+10329,56,Dubai Marina,Bi-Weekly,"Italian, Emirati",Low,Halal,4.06,59
+10330,43,Business Bay,Monthly,"Seafood, Iranian",Luxury,Gluten-Free,3.79,150
+10331,27,Jumeirah Lakes Towers (JLT),Monthly,"Seafood, Thai, Italian",Luxury,Vegan,3.27,18
+10332,27,Al Barsha,Daily,Mexican,Low,Dairy-Free,3.15,63
+10333,57,Palm Jumeirah,Monthly,"Italian, Mexican",Low,Gluten-Free,3.91,29
+10334,27,Al Barsha,Rarely,"Italian, French",High,Keto,3.28,28
+10335,33,Business Bay,Rarely,"Mexican, Iranian, Mediterranean",Low,Gluten-Free,4.43,60
+10336,39,Business Bay,Daily,Thai,Medium,Vegetarian,3.88,9
+10337,48,Dubai Marina,Bi-Weekly,"Mediterranean, Mexican",Luxury,Vegan,3.71,55
+10338,57,Abu Dhabi,Rarely,"Thai, Mexican, Indian",Medium,Dairy-Free,3.97,104
+10339,56,Ajman,Rarely,"Chinese, Mediterranean, Indian",Medium,Vegan,3.79,75
+10340,43,Business Bay,Rarely,"Indian, Chinese",Medium,Dairy-Free,4.1,121
+10341,24,Abu Dhabi,Monthly,Mexican,Medium,Vegan,4.15,49
+10342,52,Business Bay,Daily,"Indian, Iranian, Mexican",Luxury,None,3.55,105
+10343,57,Sharjah,Bi-Weekly,"Indian, Emirati, Mexican",Low,None,3.35,28
+10344,22,Ajman,Rarely,"French, Thai",Luxury,None,3.49,144
+10345,34,Dubai Marina,Rarely,"Thai, Chinese",Low,Halal,3.88,33
+10346,41,Al Barsha,Rarely,Italian,Low,None,4.44,55
+10347,47,Ajman,Bi-Weekly,"Indian, French, Seafood",Medium,Vegan,3.55,37
+10348,27,Abu Dhabi,Monthly,"Emirati, Mexican, French",Low,None,4.33,93
+10349,35,Abu Dhabi,Monthly,Mediterranean,Low,Gluten-Free,3.19,39
+10350,36,Palm Jumeirah,Monthly,"Chinese, Emirati, French",High,Gluten-Free,4.1,22
+10351,40,Palm Jumeirah,Bi-Weekly,"Thai, Italian",Low,Halal,4.09,88
+10352,40,Dubai Marina,Bi-Weekly,Mexican,Medium,Halal,4.33,34
+10353,28,Jumeirah Beach Residence (JBR),Bi-Weekly,Iranian,High,Halal,3.59,122
+10354,60,Ajman,Daily,"Thai, Iranian",High,Vegetarian,3.53,47
+10355,45,Ajman,Weekly,"Seafood, Emirati",Low,Halal,4.23,137
+10356,58,Abu Dhabi,Monthly,Mexican,Low,Gluten-Free,4.4,87
+10357,29,Sharjah,Monthly,Indian,Luxury,Vegetarian,3.47,127
+10358,52,Business Bay,Rarely,"Emirati, Mexican",High,Keto,3.03,28
+10359,57,Business Bay,Bi-Weekly,"Iranian, Mediterranean",High,Halal,3.82,68
+10360,34,Jumeirah Lakes Towers (JLT),Weekly,"Emirati, Mexican, Mediterranean",High,Vegan,4.43,112
+10361,53,Sharjah,Rarely,"Italian, Iranian, French",Luxury,Dairy-Free,3.45,15
+10362,36,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Italian, Indian, Mexican",Medium,Vegetarian,3.94,148
+10363,27,Dubai Marina,Monthly,"Emirati, Chinese",Luxury,Keto,3.86,122
+10364,49,Sharjah,Weekly,"Thai, Mediterranean",Medium,Vegetarian,3.8,144
+10365,34,Ajman,Daily,"Mediterranean, Iranian, Italian",Medium,None,3.04,141
+10366,48,Sharjah,Bi-Weekly,"Mediterranean, Seafood, Indian",Low,Keto,4.26,141
+10367,56,Sharjah,Monthly,Emirati,High,Vegetarian,3.38,123
+10368,50,Abu Dhabi,Rarely,"Chinese, Italian, Iranian",Luxury,Vegetarian,4.3,25
+10369,34,Jumeirah Lakes Towers (JLT),Rarely,"Mexican, Mediterranean, Iranian",Luxury,Keto,4.09,65
+10370,20,Ajman,Rarely,"Iranian, Mediterranean",High,Keto,4.28,63
+10371,34,Dubai Marina,Daily,"Italian, Indian, Thai",Low,Gluten-Free,3.47,75
+10372,56,Abu Dhabi,Bi-Weekly,Chinese,Low,Dairy-Free,3.19,39
+10373,38,Sharjah,Monthly,"Emirati, Mediterranean, Mexican",Low,Gluten-Free,4.19,85
+10374,60,Dubai Marina,Rarely,"Thai, Mediterranean, Italian",Medium,Dairy-Free,3.47,74
+10375,45,Business Bay,Rarely,"Italian, Mediterranean",Luxury,None,3.24,89
+10376,22,Downtown Dubai,Monthly,"Mediterranean, Thai, Chinese",Medium,Gluten-Free,3.54,97
+10377,41,Jumeirah Lakes Towers (JLT),Bi-Weekly,Thai,High,Gluten-Free,4.36,9
+10378,56,Jumeirah Beach Residence (JBR),Monthly,Chinese,Medium,Vegan,4.38,107
+10379,53,Al Barsha,Rarely,"Chinese, Emirati, Seafood",Low,Keto,4.26,118
+10380,20,Al Barsha,Weekly,Emirati,Luxury,Dairy-Free,4.4,57
+10381,41,Abu Dhabi,Bi-Weekly,Indian,Low,Keto,3.27,143
+10382,41,Business Bay,Weekly,"Mediterranean, Thai",Medium,Dairy-Free,3.78,28
+10383,29,Ajman,Bi-Weekly,Indian,High,Keto,4.0,36
+10384,45,Sharjah,Rarely,"French, Indian, Chinese",Medium,Vegan,3.33,108
+10385,23,Business Bay,Bi-Weekly,Italian,Low,Vegetarian,3.32,112
+10386,45,Abu Dhabi,Daily,Emirati,High,Dairy-Free,3.9,107
+10387,23,Downtown Dubai,Weekly,"Mexican, Italian, Indian",High,Halal,3.52,103
+10388,46,Business Bay,Monthly,"Mexican, Iranian",Low,None,3.39,17
+10389,44,Downtown Dubai,Bi-Weekly,"Seafood, French, Emirati",High,None,3.23,41
+10390,49,Dubai Marina,Weekly,"Indian, Mexican",Low,Vegetarian,4.06,119
+10391,26,Downtown Dubai,Monthly,"Chinese, Indian",Luxury,Dairy-Free,3.0,34
+10392,45,Jumeirah Beach Residence (JBR),Daily,"Emirati, Seafood, Mexican",High,Vegan,4.04,117
+10393,20,Jumeirah Beach Residence (JBR),Monthly,"Italian, Iranian",Luxury,Halal,4.08,78
+10394,52,Downtown Dubai,Daily,Italian,Medium,Vegetarian,4.06,108
+10395,38,Ajman,Bi-Weekly,Chinese,Low,Keto,3.16,127
+10396,23,Jumeirah Beach Residence (JBR),Daily,"Seafood, Chinese, French",Low,Gluten-Free,4.11,7
+10397,49,Dubai Marina,Daily,"Emirati, Thai, Mexican",Medium,Keto,3.74,95
+10398,55,Jumeirah Beach Residence (JBR),Weekly,Chinese,High,None,4.32,136
+10399,45,Ajman,Weekly,"Emirati, Iranian, Indian",High,Vegetarian,3.23,39
+10400,29,Abu Dhabi,Rarely,"French, Chinese",High,Keto,4.42,78
+10401,49,Dubai Marina,Weekly,"French, Mediterranean",Low,Vegetarian,3.13,96
+10402,55,Sharjah,Weekly,Italian,Low,Keto,4.18,110
+10403,41,Abu Dhabi,Daily,"Iranian, Thai, Indian",Luxury,None,4.19,8
+10404,39,Palm Jumeirah,Monthly,"Mexican, Thai",Luxury,Dairy-Free,4.0,127
+10405,51,Dubai Marina,Bi-Weekly,French,Medium,Vegan,3.04,150
+10406,43,Downtown Dubai,Bi-Weekly,Emirati,Low,Halal,4.18,6
+10407,26,Downtown Dubai,Weekly,Mexican,High,Vegan,3.98,35
+10408,35,Downtown Dubai,Daily,Thai,Luxury,Halal,4.37,46
+10409,55,Ajman,Bi-Weekly,"Italian, Iranian, Mediterranean",Luxury,Gluten-Free,4.49,19
+10410,57,Sharjah,Daily,French,Medium,Halal,3.98,95
+10411,45,Ajman,Bi-Weekly,"French, Chinese",Low,Keto,3.1,59
+10412,39,Sharjah,Daily,"Iranian, Mexican, Mediterranean",Medium,Vegetarian,3.15,88
+10413,59,Business Bay,Bi-Weekly,Italian,Medium,Dairy-Free,3.39,82
+10414,51,Sharjah,Monthly,"Chinese, Thai",Luxury,Keto,3.73,38
+10415,56,Ajman,Bi-Weekly,"Indian, Chinese, Mexican",High,Halal,3.63,116
+10416,50,Downtown Dubai,Weekly,"Mexican, Mediterranean",Medium,None,4.28,5
+10417,35,Dubai Marina,Monthly,Iranian,Medium,Gluten-Free,3.26,115
+10418,39,Jumeirah Lakes Towers (JLT),Rarely,"Emirati, French",High,Gluten-Free,3.1,7
+10419,55,Business Bay,Daily,"Iranian, Mediterranean",Medium,Halal,3.51,111
+10420,43,Dubai Marina,Rarely,"Emirati, Mexican",High,Keto,3.3,93
+10421,23,Jumeirah Beach Residence (JBR),Weekly,"Emirati, French",Luxury,Vegetarian,4.07,21
+10422,59,Jumeirah Beach Residence (JBR),Rarely,"Chinese, French, Mediterranean",Luxury,Vegetarian,3.85,106
+10423,53,Downtown Dubai,Weekly,Mexican,Medium,Halal,4.18,149
+10424,20,Jumeirah Beach Residence (JBR),Rarely,Indian,Low,Halal,3.6,127
+10425,46,Ajman,Daily,"Chinese, Emirati",Luxury,Keto,4.37,88
+10426,49,Ajman,Weekly,"Iranian, Emirati, French",Medium,Keto,3.65,104
+10427,55,Jumeirah Lakes Towers (JLT),Rarely,"Thai, Emirati",Medium,Halal,3.19,28
+10428,46,Al Barsha,Daily,"Chinese, Emirati",Low,None,3.17,38
+10429,21,Jumeirah Lakes Towers (JLT),Monthly,"Indian, French, Thai",Luxury,Keto,3.36,102
+10430,49,Jumeirah Lakes Towers (JLT),Weekly,Italian,Low,None,4.2,11
+10431,26,Jumeirah Lakes Towers (JLT),Weekly,"Seafood, Indian",High,Halal,3.73,103
+10432,57,Abu Dhabi,Daily,"Indian, Mediterranean, Emirati",Luxury,Dairy-Free,4.0,69
+10433,59,Sharjah,Rarely,"Seafood, Chinese, French",Luxury,Halal,4.3,131
+10434,36,Sharjah,Monthly,"Chinese, Iranian, Mediterranean",Low,Keto,4.25,102
+10435,47,Business Bay,Rarely,"Indian, French",Low,Vegetarian,3.02,15
+10436,49,Dubai Marina,Bi-Weekly,"French, Thai, Mediterranean",Medium,Gluten-Free,3.62,12
+10437,53,Jumeirah Beach Residence (JBR),Rarely,"Mediterranean, Chinese",High,Halal,4.47,16
+10438,41,Dubai Marina,Bi-Weekly,"Mexican, French, Iranian",High,Vegan,4.4,97
+10439,34,Abu Dhabi,Daily,"Seafood, French",Low,Dairy-Free,3.01,33
+10440,38,Jumeirah Beach Residence (JBR),Monthly,"Indian, Italian, Chinese",Medium,Gluten-Free,4.13,113
+10441,26,Business Bay,Monthly,"Thai, Seafood, Emirati",Luxury,Halal,3.92,122
+10442,27,Jumeirah Beach Residence (JBR),Daily,"Seafood, Thai",Medium,Gluten-Free,3.97,12
+10443,39,Business Bay,Bi-Weekly,"Seafood, Chinese",Medium,Halal,3.37,120
+10444,31,Business Bay,Rarely,Mediterranean,Medium,Dairy-Free,4.29,111
+10445,36,Jumeirah Beach Residence (JBR),Monthly,Italian,Medium,None,3.81,21
+10446,25,Ajman,Bi-Weekly,"Emirati, French",Low,Keto,3.55,86
+10447,21,Abu Dhabi,Bi-Weekly,Indian,Luxury,Dairy-Free,3.73,64
+10448,53,Jumeirah Beach Residence (JBR),Weekly,"Indian, Mediterranean, Italian",Low,Dairy-Free,3.16,60
+10449,39,Palm Jumeirah,Daily,"Chinese, Mediterranean, Seafood",Medium,Vegan,3.24,130
+10450,56,Downtown Dubai,Bi-Weekly,"Thai, Iranian",Low,None,4.42,26
+10451,35,Business Bay,Rarely,French,Low,Keto,4.4,9
+10452,40,Ajman,Rarely,"Indian, Mediterranean, Thai",Low,Halal,3.61,148
+10453,30,Sharjah,Monthly,"Emirati, Mediterranean",High,Gluten-Free,3.83,78
+10454,28,Downtown Dubai,Daily,Indian,Luxury,Vegan,3.22,149
+10455,58,Sharjah,Rarely,"Thai, Italian",High,Dairy-Free,4.0,150
+10456,20,Abu Dhabi,Monthly,"Thai, Italian",High,None,3.36,139
+10457,51,Jumeirah Beach Residence (JBR),Monthly,Mediterranean,High,Halal,4.15,100
+10458,25,Palm Jumeirah,Monthly,Iranian,Luxury,Vegan,3.15,98
+10459,41,Sharjah,Bi-Weekly,"Mexican, Chinese",Medium,Keto,4.07,92
+10460,29,Downtown Dubai,Daily,"Emirati, French, Chinese",Medium,Vegetarian,4.2,113
+10461,56,Jumeirah Beach Residence (JBR),Weekly,Emirati,Luxury,Dairy-Free,4.29,150
+10462,57,Sharjah,Bi-Weekly,"Iranian, Thai",High,Halal,3.09,125
+10463,28,Ajman,Bi-Weekly,Thai,Medium,Vegan,3.99,67
+10464,51,Business Bay,Weekly,"Thai, French, Mexican",High,Keto,3.99,107
+10465,49,Jumeirah Beach Residence (JBR),Daily,"Thai, Chinese, Indian",High,Dairy-Free,3.63,130
+10466,35,Downtown Dubai,Daily,"Chinese, Iranian, Italian",Medium,None,3.36,58
+10467,39,Palm Jumeirah,Rarely,"Italian, French",Luxury,Gluten-Free,3.87,63
+10468,26,Business Bay,Monthly,"Iranian, Mediterranean",Medium,Halal,4.02,73
+10469,40,Dubai Marina,Monthly,"Seafood, Iranian",High,Dairy-Free,3.68,107
+10470,44,Downtown Dubai,Rarely,"Thai, Indian",Low,Dairy-Free,3.4,64
+10471,41,Palm Jumeirah,Monthly,"Emirati, Indian",High,Dairy-Free,3.68,147
+10472,36,Sharjah,Bi-Weekly,"Italian, Emirati",Luxury,Vegan,4.46,99
+10473,32,Al Barsha,Weekly,"Thai, Mediterranean, Italian",Low,Dairy-Free,3.18,72
+10474,45,Ajman,Weekly,"Italian, Chinese",Luxury,None,3.89,138
+10475,39,Ajman,Daily,"Emirati, Thai, Indian",Medium,None,3.17,7
+10476,27,Downtown Dubai,Weekly,Seafood,Luxury,Dairy-Free,3.99,69
+10477,36,Palm Jumeirah,Bi-Weekly,"Iranian, Mexican, Italian",High,Halal,3.3,131
+10478,38,Palm Jumeirah,Rarely,Italian,High,Dairy-Free,3.95,131
+10479,32,Palm Jumeirah,Bi-Weekly,"Thai, Iranian",Luxury,Keto,3.59,148
+10480,59,Jumeirah Lakes Towers (JLT),Daily,"Indian, Mediterranean, Italian",Medium,Gluten-Free,3.86,28
+10481,58,Dubai Marina,Monthly,Seafood,Low,Gluten-Free,4.05,49
+10482,59,Downtown Dubai,Bi-Weekly,"Thai, Chinese",Low,Vegan,3.99,146
+10483,60,Ajman,Rarely,Seafood,Medium,Dairy-Free,3.14,108
+10484,31,Sharjah,Bi-Weekly,"Seafood, Thai, French",Medium,None,3.21,119
+10485,36,Jumeirah Beach Residence (JBR),Bi-Weekly,Chinese,High,Dairy-Free,3.08,107
+10486,43,Abu Dhabi,Bi-Weekly,Chinese,Low,Gluten-Free,3.75,124
+10487,49,Jumeirah Lakes Towers (JLT),Daily,"Seafood, French",High,Halal,4.24,94
+10488,24,Downtown Dubai,Rarely,Italian,Low,Dairy-Free,3.15,142
+10489,41,Jumeirah Lakes Towers (JLT),Daily,"Italian, French",Luxury,Halal,3.13,123
+10490,43,Business Bay,Daily,Emirati,High,Dairy-Free,3.14,9
+10491,59,Business Bay,Rarely,Emirati,High,Gluten-Free,3.1,56
+10492,33,Abu Dhabi,Rarely,"Mediterranean, Emirati, Chinese",Low,Gluten-Free,4.28,78
+10493,44,Abu Dhabi,Weekly,"Chinese, Mexican",High,None,3.41,112
+10494,34,Jumeirah Beach Residence (JBR),Rarely,Thai,Low,Vegan,4.02,18
+10495,34,Downtown Dubai,Bi-Weekly,"Italian, Mexican",High,Gluten-Free,3.86,8
+10496,39,Palm Jumeirah,Daily,"Chinese, Seafood",Luxury,Vegan,3.79,66
+10497,29,Jumeirah Beach Residence (JBR),Weekly,Thai,Medium,Dairy-Free,4.09,66
+10498,44,Al Barsha,Rarely,"Seafood, Mexican",Medium,Dairy-Free,3.95,52
+10499,22,Sharjah,Daily,Mediterranean,Low,Dairy-Free,3.8,7
+10500,53,Business Bay,Daily,"Iranian, Italian",Medium,Vegan,4.05,148
+10501,43,Palm Jumeirah,Monthly,"French, Chinese, Iranian",Luxury,Vegan,4.24,74
+10502,37,Al Barsha,Daily,"Seafood, Thai",Low,Halal,4.36,79
+10503,31,Al Barsha,Weekly,Seafood,Low,Vegetarian,4.11,115
+10504,26,Abu Dhabi,Monthly,"Iranian, French",High,Dairy-Free,3.74,98
+10505,37,Dubai Marina,Bi-Weekly,"Emirati, Mediterranean",Medium,None,4.31,53
+10506,52,Downtown Dubai,Daily,Mediterranean,Luxury,Gluten-Free,3.8,133
+10507,52,Jumeirah Beach Residence (JBR),Monthly,"Chinese, Italian, Seafood",Low,Dairy-Free,3.55,51
+10508,21,Jumeirah Lakes Towers (JLT),Rarely,"French, Iranian, Italian",Low,Gluten-Free,3.97,4
+10509,58,Ajman,Bi-Weekly,Seafood,Low,Gluten-Free,4.18,34
+10510,21,Sharjah,Daily,"Seafood, Iranian, Mediterranean",High,Vegetarian,3.18,18
+10511,48,Jumeirah Beach Residence (JBR),Rarely,"Mexican, Italian",High,None,4.21,121
+10512,60,Business Bay,Daily,Mediterranean,High,Vegetarian,4.01,8
+10513,38,Sharjah,Daily,"Italian, Thai, French",High,Dairy-Free,4.35,17
+10514,21,Downtown Dubai,Daily,Thai,High,None,4.3,37
+10515,35,Dubai Marina,Rarely,"Chinese, Seafood",Luxury,Dairy-Free,4.49,28
+10516,57,Business Bay,Daily,"Mexican, Mediterranean",Medium,Keto,3.16,87
+10517,50,Sharjah,Daily,"Iranian, Mediterranean, Thai",Low,Vegan,4.08,119
+10518,29,Jumeirah Lakes Towers (JLT),Daily,"Emirati, Chinese, Indian",Medium,Gluten-Free,4.12,120
+10519,29,Al Barsha,Rarely,"Mexican, Indian, French",Low,Vegetarian,3.63,71
+10520,30,Palm Jumeirah,Daily,"Indian, Mediterranean, Emirati",Low,Vegetarian,4.03,8
+10521,26,Palm Jumeirah,Monthly,"Thai, French",Low,Gluten-Free,3.33,131
+10522,56,Palm Jumeirah,Rarely,"French, Chinese, Iranian",Medium,Vegetarian,4.22,55
+10523,40,Dubai Marina,Bi-Weekly,Mexican,Medium,Vegetarian,4.18,53
+10524,60,Jumeirah Beach Residence (JBR),Bi-Weekly,"Mexican, Indian",Luxury,Vegan,3.65,45
+10525,36,Palm Jumeirah,Rarely,"Emirati, Italian, French",Luxury,Dairy-Free,3.37,68
+10526,21,Ajman,Daily,Mediterranean,Medium,Keto,3.2,62
+10527,44,Dubai Marina,Rarely,Thai,Low,Vegan,3.69,13
+10528,53,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Seafood, Thai, Iranian",High,Vegetarian,3.42,54
+10529,43,Palm Jumeirah,Rarely,"Chinese, Mexican, Indian",Medium,Vegetarian,3.14,9
+10530,54,Abu Dhabi,Bi-Weekly,Italian,Low,Keto,4.37,140
+10531,37,Abu Dhabi,Bi-Weekly,Emirati,High,None,4.42,78
+10532,43,Downtown Dubai,Bi-Weekly,"Chinese, Emirati, French",High,Halal,3.68,61
+10533,24,Abu Dhabi,Monthly,"Italian, Mexican",Luxury,Halal,4.23,88
+10534,26,Abu Dhabi,Rarely,"Italian, Iranian",Low,Vegetarian,3.93,110
+10535,34,Palm Jumeirah,Weekly,Italian,High,Keto,4.47,88
+10536,46,Jumeirah Beach Residence (JBR),Rarely,"Emirati, Italian",High,Halal,4.33,87
+10537,39,Abu Dhabi,Daily,French,Luxury,Vegetarian,3.56,77
+10538,46,Jumeirah Lakes Towers (JLT),Monthly,Italian,High,Gluten-Free,4.29,73
+10539,41,Business Bay,Weekly,"Mediterranean, Italian",Medium,Gluten-Free,3.63,139
+10540,53,Abu Dhabi,Bi-Weekly,Chinese,High,Dairy-Free,3.38,36
+10541,46,Jumeirah Lakes Towers (JLT),Weekly,"Mediterranean, Emirati, Mexican",High,None,4.39,140
+10542,59,Abu Dhabi,Weekly,"Mediterranean, Seafood",High,Halal,3.89,134
+10543,45,Downtown Dubai,Bi-Weekly,"Emirati, Mediterranean, Iranian",Low,Dairy-Free,3.03,76
+10544,26,Jumeirah Beach Residence (JBR),Rarely,"Mexican, Indian",High,Keto,3.71,106
+10545,53,Al Barsha,Weekly,"Seafood, Mexican",Luxury,Vegan,3.52,67
+10546,45,Ajman,Rarely,"Indian, Seafood",Luxury,Keto,3.69,121
+10547,55,Business Bay,Monthly,"Emirati, Chinese",Luxury,Dairy-Free,4.2,136
+10548,35,Ajman,Rarely,"Thai, Seafood",High,Gluten-Free,3.64,78
+10549,45,Al Barsha,Monthly,Mexican,Medium,Halal,3.38,92
+10550,33,Ajman,Daily,"Italian, Mediterranean, Mexican",High,Gluten-Free,3.71,144
+10551,53,Ajman,Monthly,"Mexican, Italian, Seafood",Low,Vegetarian,4.04,7
+10552,49,Business Bay,Daily,Mediterranean,Low,Vegetarian,3.92,141
+10553,45,Ajman,Daily,"Thai, Iranian",Medium,None,3.86,51
+10554,55,Abu Dhabi,Weekly,"Italian, Mexican, Thai",Low,Vegetarian,3.48,68
+10555,59,Business Bay,Daily,"Chinese, Emirati",Low,Gluten-Free,3.94,24
+10556,39,Jumeirah Beach Residence (JBR),Rarely,"Chinese, Seafood, Iranian",Medium,None,3.44,71
+10557,45,Sharjah,Daily,"French, Mexican",Low,Halal,3.33,123
+10558,53,Sharjah,Bi-Weekly,Italian,Low,Vegan,3.09,108
+10559,21,Downtown Dubai,Monthly,"Seafood, Mediterranean, Chinese",Low,Dairy-Free,3.67,34
+10560,51,Business Bay,Monthly,"Mexican, Iranian, Thai",Medium,Keto,3.83,41
+10561,55,Business Bay,Daily,"Seafood, Thai",Medium,Gluten-Free,3.45,66
+10562,20,Jumeirah Beach Residence (JBR),Weekly,Chinese,Medium,Vegetarian,3.14,110
+10563,38,Abu Dhabi,Daily,Indian,Luxury,None,3.49,65
+10564,26,Dubai Marina,Bi-Weekly,"Mexican, Indian, Thai",Luxury,None,3.79,57
+10565,43,Business Bay,Weekly,"Mexican, Italian, Chinese",Medium,None,3.02,32
+10566,35,Business Bay,Monthly,"Italian, Mediterranean, Seafood",Luxury,Vegetarian,3.04,149
+10567,24,Ajman,Daily,Thai,Low,Keto,3.05,21
+10568,40,Jumeirah Beach Residence (JBR),Monthly,Mediterranean,Luxury,Dairy-Free,4.07,115
+10569,24,Abu Dhabi,Rarely,"Mediterranean, Chinese",Medium,Gluten-Free,4.17,23
+10570,40,Business Bay,Daily,"French, Mexican",Low,Keto,3.66,61
+10571,27,Dubai Marina,Daily,"Emirati, Mexican",Medium,Halal,3.22,95
+10572,56,Palm Jumeirah,Bi-Weekly,"French, Emirati",High,Vegetarian,3.28,103
+10573,46,Al Barsha,Monthly,"Italian, Chinese",Medium,Vegan,4.14,136
+10574,53,Al Barsha,Rarely,Seafood,Luxury,Vegetarian,3.34,27
+10575,39,Dubai Marina,Bi-Weekly,"Mediterranean, Emirati",Medium,Dairy-Free,3.7,76
+10576,27,Downtown Dubai,Monthly,Indian,Luxury,Halal,3.47,45
+10577,43,Sharjah,Weekly,"French, Mediterranean, Seafood",High,Gluten-Free,3.26,137
+10578,37,Jumeirah Beach Residence (JBR),Monthly,Mediterranean,Medium,Dairy-Free,3.2,142
+10579,51,Business Bay,Daily,"French, Mediterranean",High,Keto,3.04,135
+10580,55,Downtown Dubai,Bi-Weekly,Seafood,Low,None,3.51,20
+10581,35,Palm Jumeirah,Bi-Weekly,"Mediterranean, Thai, Italian",Luxury,Vegan,3.81,84
+10582,58,Jumeirah Lakes Towers (JLT),Weekly,Italian,Medium,Vegetarian,3.14,8
+10583,53,Ajman,Rarely,"French, Seafood, Italian",Low,Halal,3.46,111
+10584,52,Business Bay,Rarely,Iranian,Medium,Vegan,3.66,40
+10585,43,Downtown Dubai,Daily,Emirati,High,Keto,4.18,14
+10586,38,Business Bay,Rarely,"Mexican, Iranian",Medium,Halal,3.74,39
+10587,30,Business Bay,Bi-Weekly,"Thai, Indian, Seafood",Medium,Dairy-Free,3.26,24
+10588,56,Jumeirah Beach Residence (JBR),Weekly,"Mexican, Seafood",Luxury,Halal,3.07,58
+10589,29,Business Bay,Daily,Chinese,Low,Gluten-Free,3.59,55
+10590,36,Jumeirah Beach Residence (JBR),Daily,Italian,Luxury,Keto,4.39,104
+10591,34,Ajman,Rarely,Mexican,Medium,Vegetarian,4.25,37
+10592,45,Sharjah,Bi-Weekly,Indian,Medium,Halal,3.02,132
+10593,55,Jumeirah Beach Residence (JBR),Bi-Weekly,Emirati,Low,Keto,3.9,101
+10594,52,Ajman,Bi-Weekly,Iranian,High,Keto,3.5,132
+10595,47,Al Barsha,Daily,"Chinese, Iranian, Indian",Low,Keto,3.5,51
+10596,54,Jumeirah Beach Residence (JBR),Monthly,"Iranian, Seafood, Mexican",High,Halal,3.03,48
+10597,20,Business Bay,Monthly,"Seafood, Italian, Mexican",Medium,Halal,3.01,65
+10598,55,Al Barsha,Bi-Weekly,"Italian, Iranian",Medium,Dairy-Free,3.56,41
+10599,28,Jumeirah Beach Residence (JBR),Bi-Weekly,"Mexican, Indian",High,Dairy-Free,3.67,58
+10600,52,Al Barsha,Daily,"Emirati, Seafood, Chinese",Medium,Gluten-Free,4.27,24
+10601,34,Abu Dhabi,Weekly,"Indian, Iranian",Low,Dairy-Free,3.47,149
+10602,42,Sharjah,Rarely,French,Low,None,3.08,107
+10603,51,Jumeirah Beach Residence (JBR),Daily,"Iranian, Seafood",Luxury,Vegan,4.38,136
+10604,57,Business Bay,Daily,"Iranian, Thai, Indian",Medium,Dairy-Free,3.1,94
+10605,23,Downtown Dubai,Daily,Italian,Luxury,Halal,3.35,59
+10606,54,Abu Dhabi,Monthly,"French, Italian",Low,Keto,3.2,87
+10607,20,Jumeirah Lakes Towers (JLT),Daily,"Thai, Italian",Low,Vegetarian,3.52,85
+10608,50,Ajman,Weekly,French,Medium,Halal,4.3,146
+10609,56,Jumeirah Beach Residence (JBR),Monthly,"Thai, Iranian",Luxury,Vegetarian,3.16,93
+10610,33,Ajman,Rarely,"Thai, Mediterranean",Luxury,Keto,4.23,142
+10611,31,Business Bay,Weekly,"Thai, Indian, Seafood",Low,Halal,4.05,55
+10612,41,Jumeirah Lakes Towers (JLT),Monthly,Chinese,Luxury,Halal,3.08,18
+10613,47,Downtown Dubai,Rarely,"Mexican, Iranian",Low,Vegan,3.62,79
+10614,57,Jumeirah Lakes Towers (JLT),Daily,"Iranian, Italian",Low,Vegetarian,4.23,138
+10615,50,Al Barsha,Monthly,"Italian, Iranian, French",Low,Dairy-Free,3.72,119
+10616,53,Sharjah,Rarely,Thai,Medium,None,3.32,148
+10617,42,Jumeirah Lakes Towers (JLT),Weekly,"Italian, Indian",High,None,3.63,89
+10618,55,Jumeirah Beach Residence (JBR),Weekly,"Italian, Mexican",Luxury,Vegan,3.15,5
+10619,34,Palm Jumeirah,Weekly,"Italian, Indian",Luxury,Vegan,4.32,43
+10620,35,Palm Jumeirah,Daily,Seafood,High,Keto,3.66,99
+10621,40,Ajman,Bi-Weekly,"French, Seafood",Luxury,Dairy-Free,3.72,65
+10622,60,Dubai Marina,Monthly,"Italian, Iranian",Luxury,Halal,3.46,19
+10623,48,Abu Dhabi,Weekly,"Italian, Indian, Chinese",High,Gluten-Free,3.24,6
+10624,22,Al Barsha,Rarely,"Seafood, Iranian, Chinese",High,Keto,3.78,138
+10625,25,Ajman,Weekly,"Mediterranean, French, Emirati",High,Gluten-Free,3.93,57
+10626,24,Palm Jumeirah,Rarely,Mediterranean,Medium,Vegan,3.81,37
+10627,52,Jumeirah Lakes Towers (JLT),Weekly,"Chinese, Mexican",Luxury,Vegetarian,4.45,148
+10628,23,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Seafood, Iranian, Mediterranean",High,Dairy-Free,3.06,137
+10629,32,Business Bay,Daily,"Iranian, Mexican",High,None,3.58,46
+10630,23,Jumeirah Beach Residence (JBR),Daily,"Mexican, French",Medium,Dairy-Free,3.96,141
+10631,57,Downtown Dubai,Monthly,"Thai, Indian, Italian",Luxury,Vegetarian,3.78,8
+10632,34,Ajman,Bi-Weekly,Indian,Luxury,Halal,4.26,18
+10633,32,Ajman,Monthly,"Mexican, Mediterranean, Indian",Medium,None,3.57,58
+10634,47,Abu Dhabi,Daily,"Chinese, Iranian",Luxury,None,4.3,60
+10635,37,Jumeirah Beach Residence (JBR),Daily,"Mediterranean, Iranian, French",High,Keto,3.2,108
+10636,26,Jumeirah Beach Residence (JBR),Daily,"Mediterranean, Emirati",Luxury,Halal,3.35,89
+10637,55,Business Bay,Rarely,Emirati,Luxury,Vegetarian,4.43,124
+10638,46,Jumeirah Lakes Towers (JLT),Bi-Weekly,Chinese,Luxury,Dairy-Free,3.38,118
+10639,39,Downtown Dubai,Rarely,"Indian, Emirati",High,Keto,4.28,28
+10640,51,Sharjah,Daily,"Thai, Mexican, Italian",Low,Keto,3.59,75
+10641,23,Ajman,Rarely,"French, Seafood",Medium,Keto,4.49,114
+10642,52,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Seafood, Iranian",Low,Keto,4.4,64
+10643,54,Abu Dhabi,Rarely,"Thai, French",High,Vegan,3.81,98
+10644,44,Ajman,Rarely,Thai,Luxury,Vegetarian,3.17,55
+10645,60,Palm Jumeirah,Bi-Weekly,Seafood,Luxury,Vegetarian,3.57,84
+10646,38,Palm Jumeirah,Weekly,"Iranian, Indian, Italian",Luxury,Halal,3.88,136
+10647,58,Palm Jumeirah,Rarely,"Thai, Indian, Seafood",Medium,Dairy-Free,3.09,74
+10648,20,Dubai Marina,Monthly,Seafood,Luxury,Dairy-Free,4.34,145
+10649,24,Abu Dhabi,Monthly,Mexican,Medium,Dairy-Free,3.85,104
+10650,28,Downtown Dubai,Monthly,Italian,Luxury,Dairy-Free,3.94,61
+10651,48,Jumeirah Lakes Towers (JLT),Daily,"Thai, Iranian",Low,None,3.18,146
+10652,58,Ajman,Rarely,Mexican,Low,Vegan,4.39,79
+10653,23,Downtown Dubai,Bi-Weekly,"Mediterranean, Thai, Seafood",Low,Halal,3.17,71
+10654,29,Jumeirah Beach Residence (JBR),Monthly,"Italian, Thai, Iranian",Luxury,Gluten-Free,4.3,60
+10655,43,Jumeirah Lakes Towers (JLT),Weekly,"Emirati, Mediterranean",Luxury,Gluten-Free,3.49,38
+10656,28,Ajman,Weekly,"French, Thai, Seafood",Low,Halal,3.38,63
+10657,25,Dubai Marina,Monthly,"Emirati, Italian",High,None,3.68,122
+10658,50,Jumeirah Lakes Towers (JLT),Monthly,"Seafood, Chinese, Iranian",Medium,Vegetarian,3.84,98
+10659,20,Abu Dhabi,Rarely,"Mexican, Italian, Seafood",Medium,Keto,3.49,26
+10660,41,Al Barsha,Bi-Weekly,"French, Iranian",Low,None,4.25,32
+10661,44,Ajman,Monthly,Mediterranean,Medium,Halal,3.55,69
+10662,45,Al Barsha,Daily,"Chinese, French, Seafood",Luxury,Vegan,4.17,27
+10663,35,Abu Dhabi,Rarely,"French, Mediterranean, Iranian",Luxury,Vegan,3.59,11
+10664,21,Palm Jumeirah,Monthly,"Seafood, Italian, Thai",Luxury,Halal,3.53,74
+10665,44,Sharjah,Bi-Weekly,Chinese,Low,Gluten-Free,3.59,126
+10666,37,Palm Jumeirah,Daily,Chinese,High,Vegetarian,3.76,82
+10667,22,Sharjah,Daily,"Iranian, Mexican, Emirati",Medium,None,3.91,121
+10668,33,Ajman,Bi-Weekly,"French, Mediterranean",Medium,Vegan,3.7,93
+10669,42,Jumeirah Lakes Towers (JLT),Rarely,"Mediterranean, Thai, French",High,Vegan,3.47,56
+10670,43,Sharjah,Monthly,Iranian,Luxury,Gluten-Free,4.34,144
+10671,28,Ajman,Monthly,Indian,Low,Dairy-Free,4.32,80
+10672,35,Dubai Marina,Monthly,"Thai, Emirati, French",High,None,4.04,104
+10673,57,Palm Jumeirah,Weekly,"French, Indian, Chinese",Medium,Keto,4.24,3
+10674,53,Abu Dhabi,Monthly,"Thai, Mexican, Chinese",Luxury,Dairy-Free,3.83,147
+10675,21,Dubai Marina,Daily,Chinese,Luxury,Keto,3.1,37
+10676,33,Dubai Marina,Daily,"Mediterranean, Mexican",High,None,4.33,119
+10677,21,Jumeirah Beach Residence (JBR),Monthly,"Seafood, Chinese, Thai",Luxury,Vegan,3.46,150
+10678,20,Sharjah,Weekly,"Emirati, Indian",Medium,None,4.09,99
+10679,22,Jumeirah Lakes Towers (JLT),Rarely,French,Luxury,Halal,3.8,82
+10680,28,Business Bay,Daily,"Italian, Seafood",High,Gluten-Free,3.24,47
+10681,29,Sharjah,Weekly,"Thai, Seafood, Mexican",Luxury,None,3.01,74
+10682,34,Jumeirah Beach Residence (JBR),Rarely,Mediterranean,Luxury,Keto,3.41,142
+10683,20,Al Barsha,Weekly,"Mediterranean, Italian, Emirati",Medium,Gluten-Free,4.03,38
+10684,21,Jumeirah Beach Residence (JBR),Rarely,"Chinese, Thai",Low,Halal,3.92,121
+10685,39,Palm Jumeirah,Daily,"Chinese, Mediterranean, Seafood",Medium,Dairy-Free,3.12,7
+10686,52,Al Barsha,Bi-Weekly,"Mexican, Thai, Chinese",Luxury,Keto,4.19,34
+10687,39,Dubai Marina,Weekly,Chinese,Low,Halal,4.04,29
+10688,48,Ajman,Monthly,Mexican,Medium,None,4.33,74
+10689,51,Dubai Marina,Monthly,Mediterranean,Medium,Vegetarian,4.3,120
+10690,25,Jumeirah Beach Residence (JBR),Monthly,Mediterranean,Low,Vegetarian,3.79,73
+10691,36,Abu Dhabi,Bi-Weekly,"Mediterranean, Mexican",Medium,Gluten-Free,4.26,21
+10692,42,Abu Dhabi,Rarely,"Iranian, French",Medium,Halal,4.25,98
+10693,50,Palm Jumeirah,Daily,"Iranian, Mexican",Luxury,None,3.54,54
+10694,55,Jumeirah Beach Residence (JBR),Rarely,"Mexican, Indian, French",Luxury,Halal,3.59,51
+10695,47,Abu Dhabi,Monthly,"Thai, Seafood",Low,Keto,4.23,145
+10696,24,Business Bay,Weekly,"Mediterranean, French",Medium,Gluten-Free,3.12,95
+10697,30,Abu Dhabi,Rarely,"French, Mexican",Low,Vegan,4.15,17
+10698,39,Palm Jumeirah,Monthly,"Thai, Mediterranean, Italian",High,Vegan,3.5,130
+10699,32,Dubai Marina,Bi-Weekly,Indian,Luxury,Dairy-Free,3.9,1
+10700,49,Ajman,Bi-Weekly,"Seafood, Mexican",Medium,None,3.1,42
+10701,43,Abu Dhabi,Bi-Weekly,Iranian,Luxury,Dairy-Free,3.8,70
+10702,46,Sharjah,Monthly,"Mediterranean, Iranian, Indian",Medium,None,3.97,10
+10703,52,Business Bay,Rarely,"French, Emirati, Seafood",High,Dairy-Free,3.94,142
+10704,56,Dubai Marina,Weekly,Italian,High,Keto,3.86,115
+10705,42,Al Barsha,Rarely,"Italian, Emirati",High,Halal,3.79,98
+10706,50,Jumeirah Lakes Towers (JLT),Weekly,Emirati,Low,Vegan,3.12,76
+10707,60,Dubai Marina,Rarely,"Italian, Thai, French",Low,Vegetarian,3.52,44
+10708,24,Dubai Marina,Monthly,"Thai, Seafood, Emirati",Low,Gluten-Free,3.84,59
+10709,42,Business Bay,Bi-Weekly,"Iranian, Mexican, Thai",Luxury,Keto,3.24,122
+10710,32,Business Bay,Weekly,Chinese,Luxury,Gluten-Free,3.97,7
+10711,43,Business Bay,Weekly,"Mexican, Seafood",High,Dairy-Free,3.48,104
+10712,52,Sharjah,Weekly,Mediterranean,Medium,Keto,4.09,137
+10713,56,Jumeirah Beach Residence (JBR),Bi-Weekly,"Indian, Emirati",Luxury,Vegan,4.22,35
+10714,33,Ajman,Weekly,Mediterranean,Medium,Dairy-Free,3.88,88
+10715,56,Dubai Marina,Daily,"Chinese, Mexican",Medium,Vegan,4.45,39
+10716,42,Jumeirah Beach Residence (JBR),Bi-Weekly,"Thai, Italian, Seafood",Luxury,Vegan,3.12,144
+10717,42,Business Bay,Weekly,Italian,Medium,Halal,4.46,12
+10718,21,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Emirati, Iranian",High,Vegetarian,4.07,23
+10719,29,Abu Dhabi,Weekly,"Iranian, Thai",High,Vegan,3.81,130
+10720,54,Sharjah,Rarely,"Emirati, Italian, Mediterranean",High,Gluten-Free,3.67,113
+10721,28,Ajman,Weekly,"Iranian, Emirati, French",Medium,Vegan,3.63,17
+10722,49,Dubai Marina,Weekly,"Emirati, Iranian",Low,Vegetarian,3.77,122
+10723,28,Jumeirah Lakes Towers (JLT),Daily,"Indian, Mediterranean, Mexican",Luxury,Halal,3.62,67
+10724,47,Ajman,Bi-Weekly,"French, Seafood, Thai",Low,None,3.56,55
+10725,21,Palm Jumeirah,Monthly,Chinese,High,Vegan,4.03,98
+10726,43,Abu Dhabi,Bi-Weekly,French,Medium,Halal,4.15,149
+10727,40,Jumeirah Lakes Towers (JLT),Monthly,"Indian, Mediterranean, Chinese",High,None,4.29,10
+10728,26,Al Barsha,Bi-Weekly,"Thai, Emirati",Luxury,None,4.07,1
+10729,30,Abu Dhabi,Rarely,"Mediterranean, Seafood",High,None,3.3,127
+10730,22,Dubai Marina,Weekly,"Indian, Italian",Luxury,None,4.05,58
+10731,22,Palm Jumeirah,Monthly,"Thai, Indian",Medium,None,3.92,17
+10732,27,Sharjah,Monthly,Chinese,Medium,None,3.11,54
+10733,26,Jumeirah Lakes Towers (JLT),Monthly,Emirati,Luxury,Halal,4.24,36
+10734,28,Dubai Marina,Monthly,"Iranian, Mediterranean, Italian",Low,Vegan,3.17,78
+10735,39,Al Barsha,Rarely,Italian,High,Gluten-Free,3.61,133
+10736,49,Downtown Dubai,Monthly,"Seafood, Mediterranean, Emirati",Medium,None,3.66,26
+10737,46,Downtown Dubai,Daily,"Emirati, Mediterranean",Low,Keto,3.41,106
+10738,22,Downtown Dubai,Monthly,"Mexican, Chinese",Luxury,Gluten-Free,3.82,91
+10739,34,Palm Jumeirah,Bi-Weekly,Italian,Low,Halal,4.11,100
+10740,41,Al Barsha,Weekly,"Mediterranean, Mexican",Medium,Vegetarian,3.84,67
+10741,59,Ajman,Bi-Weekly,Seafood,Luxury,Gluten-Free,4.02,118
+10742,55,Jumeirah Beach Residence (JBR),Monthly,"French, Italian",High,Vegetarian,3.66,54
+10743,52,Palm Jumeirah,Bi-Weekly,"Emirati, Seafood, Thai",Medium,Vegan,4.14,11
+10744,27,Al Barsha,Weekly,"Chinese, Italian, Emirati",High,Dairy-Free,3.61,23
+10745,52,Palm Jumeirah,Weekly,Mediterranean,High,None,3.69,82
+10746,45,Al Barsha,Rarely,Italian,Luxury,Keto,4.3,128
+10747,56,Ajman,Daily,Indian,Low,Dairy-Free,3.16,126
+10748,56,Dubai Marina,Rarely,"Mediterranean, Seafood",Luxury,Keto,4.15,57
+10749,44,Al Barsha,Bi-Weekly,Iranian,Medium,Halal,4.19,3
+10750,39,Jumeirah Beach Residence (JBR),Monthly,"Chinese, French",Low,Dairy-Free,4.14,52
+10751,34,Dubai Marina,Monthly,"Emirati, Mediterranean, Seafood",Medium,Keto,3.92,123
+10752,49,Ajman,Weekly,Chinese,Medium,None,3.08,29
+10753,50,Jumeirah Beach Residence (JBR),Monthly,"Mediterranean, Italian",Luxury,Keto,3.19,105
+10754,53,Al Barsha,Rarely,"Seafood, Italian, Mexican",Low,Dairy-Free,3.19,34
+10755,28,Abu Dhabi,Daily,"Mediterranean, Chinese, Thai",High,Halal,3.69,42
+10756,24,Palm Jumeirah,Monthly,"Chinese, Indian",High,Dairy-Free,3.08,60
+10757,53,Business Bay,Daily,Indian,Medium,Vegan,4.2,108
+10758,24,Downtown Dubai,Weekly,"Mexican, Iranian",Luxury,Dairy-Free,3.17,3
+10759,37,Downtown Dubai,Daily,"Italian, Seafood",Luxury,Dairy-Free,3.74,20
+10760,40,Dubai Marina,Bi-Weekly,"French, Italian, Thai",Medium,Halal,4.0,8
+10761,48,Jumeirah Beach Residence (JBR),Daily,"Italian, Mediterranean, Emirati",High,Dairy-Free,3.36,129
+10762,37,Business Bay,Rarely,"Iranian, Seafood",High,Vegan,3.67,76
+10763,25,Palm Jumeirah,Weekly,"Seafood, Emirati, French",Luxury,Dairy-Free,4.2,104
+10764,23,Palm Jumeirah,Rarely,Indian,Medium,Vegetarian,3.96,121
+10765,31,Palm Jumeirah,Bi-Weekly,Mediterranean,Low,Gluten-Free,3.1,6
+10766,46,Downtown Dubai,Daily,"Indian, Iranian, Thai",Low,None,3.46,67
+10767,37,Al Barsha,Daily,"Indian, Iranian, Thai",Luxury,Gluten-Free,3.18,41
+10768,41,Jumeirah Lakes Towers (JLT),Daily,"Mediterranean, Emirati, French",High,Vegetarian,3.37,92
+10769,46,Sharjah,Daily,"Iranian, Italian",Low,Gluten-Free,3.6,86
+10770,26,Abu Dhabi,Bi-Weekly,"Iranian, Seafood, Chinese",Medium,Keto,4.49,56
+10771,42,Ajman,Bi-Weekly,Mediterranean,Luxury,Keto,4.28,46
+10772,57,Palm Jumeirah,Weekly,"Seafood, Thai",Medium,Vegan,3.06,46
+10773,51,Sharjah,Weekly,"Thai, Italian",High,Keto,4.21,76
+10774,44,Jumeirah Beach Residence (JBR),Daily,"Seafood, Italian",Luxury,Vegan,4.01,10
+10775,48,Jumeirah Beach Residence (JBR),Weekly,"Indian, Emirati, French",High,Vegan,3.18,24
+10776,21,Business Bay,Rarely,Mediterranean,Low,Gluten-Free,3.77,67
+10777,45,Al Barsha,Monthly,"Seafood, Mexican, Thai",Luxury,Keto,4.22,120
+10778,58,Dubai Marina,Weekly,Iranian,Luxury,None,4.29,29
+10779,23,Abu Dhabi,Rarely,"Mediterranean, French",High,Vegan,3.46,42
+10780,29,Downtown Dubai,Monthly,"Italian, Mexican",Low,Vegetarian,3.72,100
+10781,39,Business Bay,Daily,"Thai, Chinese",Luxury,Dairy-Free,3.9,147
+10782,58,Palm Jumeirah,Daily,"Mediterranean, Italian",High,Halal,3.63,81
+10783,43,Palm Jumeirah,Daily,Mediterranean,High,Keto,3.25,52
+10784,28,Dubai Marina,Monthly,French,Luxury,Vegetarian,3.58,82
+10785,45,Jumeirah Beach Residence (JBR),Daily,"Emirati, Indian, French",Medium,Dairy-Free,4.01,23
+10786,40,Business Bay,Monthly,"Mediterranean, Iranian, Chinese",Medium,None,4.06,78
+10787,29,Jumeirah Lakes Towers (JLT),Rarely,"Mediterranean, Seafood, Mexican",Luxury,Vegetarian,3.54,51
+10788,25,Palm Jumeirah,Rarely,"Emirati, Mediterranean",Luxury,Gluten-Free,3.88,22
+10789,28,Abu Dhabi,Weekly,"Thai, Seafood",Medium,Dairy-Free,3.14,53
+10790,43,Palm Jumeirah,Daily,"Mexican, Iranian",Medium,Dairy-Free,4.23,47
+10791,50,Palm Jumeirah,Rarely,Seafood,Luxury,Gluten-Free,4.14,79
+10792,30,Jumeirah Beach Residence (JBR),Rarely,Thai,Medium,Halal,4.46,22
+10793,50,Jumeirah Beach Residence (JBR),Rarely,"Thai, French",Medium,Keto,3.25,125
+10794,20,Al Barsha,Rarely,"Mexican, Chinese, Mediterranean",High,Vegan,4.25,101
+10795,44,Palm Jumeirah,Rarely,"Chinese, Iranian",Low,None,3.54,9
+10796,53,Jumeirah Lakes Towers (JLT),Weekly,"Chinese, French, Mediterranean",High,Halal,3.04,124
+10797,59,Palm Jumeirah,Weekly,"Thai, French",High,Gluten-Free,3.42,129
+10798,41,Jumeirah Lakes Towers (JLT),Daily,Mediterranean,High,Gluten-Free,3.46,79
+10799,54,Dubai Marina,Monthly,"Indian, Iranian",Low,Dairy-Free,4.15,74
+10800,27,Jumeirah Beach Residence (JBR),Monthly,"Emirati, Seafood, Mexican",Medium,Keto,3.19,10
+10801,44,Ajman,Monthly,Chinese,Medium,None,3.85,38
+10802,44,Palm Jumeirah,Daily,"Mexican, Indian",Low,Vegetarian,4.15,106
+10803,52,Sharjah,Monthly,"French, Mediterranean, Seafood",High,Gluten-Free,3.14,68
+10804,59,Jumeirah Lakes Towers (JLT),Weekly,"Chinese, Emirati",High,Dairy-Free,3.12,40
+10805,51,Palm Jumeirah,Bi-Weekly,"Mediterranean, Iranian, Emirati",Low,None,4.1,137
+10806,47,Palm Jumeirah,Bi-Weekly,Thai,Medium,Keto,3.89,143
+10807,26,Jumeirah Beach Residence (JBR),Rarely,Emirati,Low,Halal,3.57,69
+10808,30,Dubai Marina,Weekly,French,Low,Keto,3.83,63
+10809,31,Dubai Marina,Bi-Weekly,Chinese,High,None,4.32,7
+10810,51,Al Barsha,Rarely,Thai,Luxury,Gluten-Free,3.27,83
+10811,39,Palm Jumeirah,Bi-Weekly,"Emirati, Mexican, Seafood",Luxury,Halal,4.16,77
+10812,35,Al Barsha,Weekly,"French, Chinese",Luxury,Dairy-Free,4.02,34
+10813,53,Downtown Dubai,Rarely,"Italian, Thai",Luxury,Halal,4.0,113
+10814,29,Sharjah,Rarely,"Mexican, Italian, Indian",Medium,Dairy-Free,3.58,133
+10815,25,Jumeirah Beach Residence (JBR),Monthly,"Emirati, Thai",High,None,3.42,120
+10816,27,Dubai Marina,Weekly,"Mediterranean, Indian, Chinese",Luxury,Vegetarian,3.92,138
+10817,39,Jumeirah Lakes Towers (JLT),Rarely,"Italian, Mexican, French",Low,Vegetarian,3.07,111
+10818,58,Ajman,Monthly,"Italian, Seafood",Low,Vegan,3.61,106
+10819,30,Ajman,Rarely,"French, Mediterranean",Medium,Vegan,3.47,2
+10820,36,Al Barsha,Bi-Weekly,Iranian,Luxury,Vegan,4.23,76
+10821,31,Abu Dhabi,Weekly,Mexican,Luxury,Keto,4.05,5
+10822,23,Jumeirah Beach Residence (JBR),Bi-Weekly,"Mexican, Seafood, Iranian",Low,Dairy-Free,3.83,131
+10823,40,Business Bay,Rarely,Chinese,Medium,Keto,4.22,104
+10824,22,Al Barsha,Rarely,Seafood,High,Keto,4.26,127
+10825,47,Ajman,Daily,"Indian, French",Luxury,Dairy-Free,3.87,144
+10826,23,Palm Jumeirah,Monthly,"Indian, French",Luxury,Halal,4.33,126
+10827,25,Palm Jumeirah,Weekly,"Iranian, Emirati, Chinese",Medium,Keto,4.5,13
+10828,34,Business Bay,Weekly,Emirati,Luxury,Vegan,3.01,67
+10829,48,Al Barsha,Rarely,"French, Chinese",Medium,Dairy-Free,3.94,45
+10830,26,Dubai Marina,Weekly,Iranian,High,Halal,3.07,20
+10831,56,Ajman,Daily,Chinese,Luxury,Dairy-Free,4.18,136
+10832,54,Sharjah,Monthly,"Thai, Indian",Luxury,Gluten-Free,3.99,49
+10833,59,Jumeirah Lakes Towers (JLT),Bi-Weekly,Thai,Medium,Vegan,3.59,51
+10834,46,Abu Dhabi,Bi-Weekly,"Chinese, Thai, Mediterranean",High,Dairy-Free,3.06,114
+10835,39,Ajman,Daily,Emirati,High,Vegetarian,3.54,143
+10836,26,Downtown Dubai,Bi-Weekly,Seafood,Low,Keto,3.91,86
+10837,59,Downtown Dubai,Rarely,"Mexican, Indian",High,Dairy-Free,3.92,8
+10838,25,Ajman,Monthly,"Mexican, French, Iranian",Low,Keto,4.29,66
+10839,29,Dubai Marina,Monthly,"Italian, French, Thai",High,None,4.32,103
+10840,42,Palm Jumeirah,Bi-Weekly,"French, Mexican, Mediterranean",Low,Dairy-Free,3.08,94
+10841,40,Jumeirah Beach Residence (JBR),Weekly,"Indian, Emirati",Low,Keto,3.57,121
+10842,42,Sharjah,Weekly,"Mexican, Thai",Luxury,Gluten-Free,4.13,140
+10843,35,Al Barsha,Weekly,"Mexican, Mediterranean, French",Luxury,Gluten-Free,3.57,118
+10844,60,Al Barsha,Monthly,"Iranian, French",Luxury,Dairy-Free,4.28,116
+10845,37,Palm Jumeirah,Bi-Weekly,"Mexican, Mediterranean",Medium,Gluten-Free,4.15,118
+10846,40,Sharjah,Monthly,"French, Mexican",Low,Vegetarian,3.56,141
+10847,54,Palm Jumeirah,Monthly,"Mexican, Thai, Chinese",Luxury,None,4.28,88
+10848,25,Sharjah,Rarely,"Thai, Mediterranean, French",Medium,Vegetarian,4.33,17
+10849,40,Al Barsha,Bi-Weekly,"Mediterranean, Thai",High,Halal,4.46,145
+10850,58,Ajman,Daily,"Italian, Emirati, Seafood",Luxury,Vegan,4.02,125
+10851,41,Downtown Dubai,Weekly,"Iranian, Indian",Low,Dairy-Free,4.25,12
+10852,51,Abu Dhabi,Weekly,"Mexican, French",High,Keto,3.24,92
+10853,53,Business Bay,Weekly,"Mediterranean, Mexican, French",Low,Gluten-Free,4.22,21
+10854,40,Downtown Dubai,Monthly,Emirati,Luxury,Gluten-Free,3.91,116
+10855,57,Downtown Dubai,Daily,"Italian, French",Medium,Halal,4.21,132
+10856,22,Jumeirah Beach Residence (JBR),Weekly,"Mexican, Iranian",High,Dairy-Free,3.26,31
+10857,55,Al Barsha,Bi-Weekly,Chinese,High,None,3.08,43
+10858,28,Business Bay,Rarely,"Thai, Emirati, Italian",Luxury,Vegetarian,4.12,138
+10859,26,Jumeirah Beach Residence (JBR),Daily,"Seafood, Mediterranean",Medium,Dairy-Free,4.37,132
+10860,40,Sharjah,Rarely,Italian,Luxury,Vegetarian,4.36,36
+10861,29,Al Barsha,Bi-Weekly,"Thai, Chinese",Medium,Gluten-Free,4.28,13
+10862,52,Downtown Dubai,Rarely,"Chinese, Mediterranean, Indian",Luxury,Dairy-Free,4.15,27
+10863,23,Ajman,Monthly,"Mediterranean, Chinese, Italian",High,Keto,3.95,64
+10864,58,Palm Jumeirah,Monthly,Chinese,Low,Gluten-Free,3.71,15
+10865,28,Downtown Dubai,Rarely,"Iranian, Mexican",High,Dairy-Free,3.08,142
+10866,41,Jumeirah Beach Residence (JBR),Bi-Weekly,"Mediterranean, Mexican",High,Dairy-Free,3.02,107
+10867,35,Jumeirah Beach Residence (JBR),Bi-Weekly,Seafood,Low,Vegetarian,3.79,27
+10868,48,Sharjah,Daily,Chinese,High,Dairy-Free,3.31,110
+10869,40,Jumeirah Beach Residence (JBR),Monthly,"Mexican, French, Mediterranean",High,Keto,3.95,17
+10870,44,Jumeirah Lakes Towers (JLT),Daily,"Chinese, Seafood, Emirati",Medium,Dairy-Free,3.27,30
+10871,41,Ajman,Monthly,Italian,High,Gluten-Free,3.15,104
+10872,44,Jumeirah Lakes Towers (JLT),Weekly,"Mediterranean, Thai, French",Low,Gluten-Free,4.02,9
+10873,37,Palm Jumeirah,Bi-Weekly,"Mediterranean, Indian, French",Medium,Gluten-Free,3.68,102
+10874,30,Downtown Dubai,Bi-Weekly,French,Medium,Gluten-Free,3.23,93
+10875,39,Abu Dhabi,Weekly,"Mexican, Iranian",Low,Gluten-Free,3.87,6
+10876,28,Jumeirah Beach Residence (JBR),Weekly,"Mexican, Seafood, Italian",Low,Gluten-Free,3.48,7
+10877,22,Palm Jumeirah,Monthly,"Chinese, Italian",Medium,Halal,4.48,149
+10878,41,Dubai Marina,Rarely,"Mediterranean, Italian",High,Halal,3.33,52
+10879,20,Palm Jumeirah,Weekly,"Thai, Emirati",High,Halal,4.39,130
+10880,37,Palm Jumeirah,Bi-Weekly,"Indian, Emirati, Thai",Low,Vegetarian,3.56,112
+10881,35,Jumeirah Lakes Towers (JLT),Monthly,"Iranian, Thai",Medium,Gluten-Free,3.98,90
+10882,40,Abu Dhabi,Bi-Weekly,"Iranian, Italian, Chinese",Luxury,Dairy-Free,4.06,144
+10883,41,Jumeirah Lakes Towers (JLT),Weekly,"Mexican, Chinese",Luxury,None,3.82,88
+10884,21,Sharjah,Weekly,"Thai, Mediterranean, Seafood",Luxury,None,3.95,13
+10885,34,Dubai Marina,Rarely,"French, Mediterranean",Medium,Dairy-Free,4.08,90
+10886,28,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Thai, French, Mediterranean",Luxury,Vegan,4.21,54
+10887,40,Abu Dhabi,Rarely,Seafood,Low,None,3.99,84
+10888,31,Sharjah,Monthly,"French, Iranian",Luxury,Dairy-Free,4.0,72
+10889,59,Sharjah,Bi-Weekly,"Chinese, Mexican",Luxury,None,3.88,58
+10890,44,Dubai Marina,Bi-Weekly,"Emirati, Indian",Luxury,Halal,3.98,39
+10891,26,Palm Jumeirah,Daily,"Iranian, Seafood",Medium,Halal,3.85,55
+10892,40,Dubai Marina,Monthly,Emirati,Medium,None,3.13,48
+10893,55,Downtown Dubai,Bi-Weekly,"Mexican, Chinese, French",Low,Gluten-Free,3.34,74
+10894,46,Business Bay,Monthly,"Italian, Thai",Medium,Vegetarian,4.47,48
+10895,46,Downtown Dubai,Monthly,"Indian, Thai",High,Vegan,3.91,86
+10896,47,Dubai Marina,Rarely,"French, Italian, Emirati",Medium,Halal,4.03,25
+10897,26,Sharjah,Rarely,Seafood,Low,Halal,4.19,42
+10898,45,Jumeirah Beach Residence (JBR),Monthly,Chinese,Luxury,Halal,4.37,33
+10899,36,Palm Jumeirah,Weekly,"Indian, Thai",High,Gluten-Free,3.63,113
+10900,41,Downtown Dubai,Bi-Weekly,"Iranian, Mediterranean",High,Gluten-Free,3.7,22
+10901,39,Dubai Marina,Weekly,"Chinese, Indian, Mexican",Low,Halal,3.02,140
+10902,54,Jumeirah Lakes Towers (JLT),Bi-Weekly,"Indian, Iranian",Low,None,3.81,5
+10903,51,Dubai Marina,Monthly,"Thai, Mexican",Luxury,Keto,4.06,121
+10904,48,Sharjah,Monthly,"Thai, Indian, Mediterranean",Luxury,Gluten-Free,3.21,54
+10905,28,Abu Dhabi,Daily,Mediterranean,High,Vegan,3.37,118
+10906,23,Palm Jumeirah,Rarely,"Mediterranean, Emirati, Italian",Luxury,None,4.45,95
+10907,32,Dubai Marina,Weekly,Emirati,Luxury,None,4.1,32
+10908,40,Palm Jumeirah,Daily,"Indian, Iranian, Italian",Low,Vegetarian,3.01,140
+10909,31,Al Barsha,Daily,Chinese,Low,Keto,3.37,77
+10910,34,Jumeirah Lakes Towers (JLT),Monthly,Indian,Medium,Gluten-Free,3.89,5
+10911,48,Dubai Marina,Daily,"Emirati, Iranian, Italian",Medium,None,4.23,69
+10912,29,Ajman,Monthly,"French, Iranian, Indian",High,Gluten-Free,4.09,118
+10913,57,Abu Dhabi,Weekly,Italian,High,Dairy-Free,4.4,131
+10914,54,Dubai Marina,Monthly,Thai,Luxury,Halal,3.09,124
+10915,32,Al Barsha,Monthly,"French, Chinese",Luxury,Halal,4.09,97
+10916,46,Jumeirah Lakes Towers (JLT),Bi-Weekly,Italian,High,Vegetarian,3.68,85
+10917,56,Business Bay,Daily,"Seafood, Italian, Indian",Medium,Keto,3.2,26
+10918,21,Dubai Marina,Bi-Weekly,"French, Seafood",High,Keto,3.53,13
+10919,49,Jumeirah Beach Residence (JBR),Rarely,Chinese,Medium,Halal,4.34,75
+10920,42,Business Bay,Daily,Thai,Medium,Dairy-Free,3.85,41
+10921,27,Ajman,Weekly,"Emirati, Mediterranean, Mexican",High,Vegan,3.86,94
+10922,60,Downtown Dubai,Bi-Weekly,French,Luxury,Dairy-Free,4.22,34
+10923,39,Palm Jumeirah,Bi-Weekly,"Mexican, Emirati, Thai",High,Keto,3.44,130
+10924,58,Sharjah,Weekly,"French, Mediterranean, Iranian",High,Vegan,4.27,95
+10925,58,Dubai Marina,Daily,Indian,Low,None,3.11,46
+10926,44,Ajman,Bi-Weekly,"Seafood, Emirati, Indian",Luxury,None,4.0,19
+10927,23,Abu Dhabi,Weekly,"Thai, Mediterranean, Italian",Medium,Keto,3.95,4
+10928,46,Palm Jumeirah,Monthly,"Mediterranean, Italian",High,Vegan,4.44,14
+10929,32,Sharjah,Weekly,Chinese,Low,Halal,3.38,125
+10930,59,Jumeirah Lakes Towers (JLT),Weekly,Chinese,High,Vegan,3.45,53
+10931,40,Dubai Marina,Weekly,Mexican,Medium,Dairy-Free,3.88,129
+10932,47,Dubai Marina,Rarely,"Chinese, Seafood, Iranian",High,Halal,3.34,115
+10933,30,Jumeirah Beach Residence (JBR),Weekly,"Seafood, Italian",High,Halal,3.07,90
+10934,47,Dubai Marina,Daily,"Chinese, Emirati",Low,Vegan,3.93,135
+10935,56,Dubai Marina,Monthly,Mexican,High,Vegan,3.83,19
+10936,55,Sharjah,Monthly,Mexican,Medium,Dairy-Free,3.94,64
+10937,46,Jumeirah Lakes Towers (JLT),Bi-Weekly,Emirati,Medium,Vegetarian,3.81,100
+10938,48,Jumeirah Beach Residence (JBR),Monthly,"Italian, Iranian, Thai",Luxury,Vegan,4.31,46
+10939,20,Jumeirah Beach Residence (JBR),Bi-Weekly,Indian,Medium,Keto,3.05,15
+10940,23,Palm Jumeirah,Weekly,"Iranian, Indian",Low,Vegetarian,4.28,48
+10941,33,Dubai Marina,Rarely,"Chinese, Iranian",Luxury,None,3.64,142
+10942,43,Downtown Dubai,Bi-Weekly,"Iranian, Emirati, Indian",Luxury,Halal,4.26,81
+10943,44,Ajman,Daily,"Thai, Iranian, Chinese",Luxury,None,3.31,142
+10944,43,Al Barsha,Rarely,Thai,Low,Halal,3.36,42
+10945,51,Abu Dhabi,Monthly,"Emirati, French, Seafood",Luxury,Vegan,3.88,126
+10946,40,Jumeirah Lakes Towers (JLT),Weekly,"Mexican, Emirati, Iranian",Low,Dairy-Free,3.28,120
+10947,53,Abu Dhabi,Rarely,"Indian, Thai, Emirati",High,Halal,4.27,96
+10948,57,Jumeirah Beach Residence (JBR),Rarely,"Emirati, Chinese",Luxury,Vegetarian,3.69,6
+10949,57,Downtown Dubai,Weekly,"Italian, Mexican, Emirati",Luxury,Halal,4.49,126
+10950,42,Sharjah,Monthly,"Chinese, Thai",Luxury,None,4.13,112
+10951,54,Abu Dhabi,Weekly,"Seafood, Iranian, French",Medium,Halal,3.17,13
+10952,21,Palm Jumeirah,Weekly,"Thai, Mediterranean, Mexican",High,Gluten-Free,3.33,30
+10953,33,Abu Dhabi,Bi-Weekly,Iranian,Low,Keto,4.45,125
+10954,34,Jumeirah Beach Residence (JBR),Monthly,"French, Iranian, Seafood",Low,None,3.79,131
+10955,43,Downtown Dubai,Daily,"Mexican, French",Luxury,None,3.73,109
+10956,29,Al Barsha,Weekly,Indian,Low,Dairy-Free,3.87,81
+10957,47,Palm Jumeirah,Monthly,Chinese,Low,Keto,3.08,39
+10958,58,Sharjah,Bi-Weekly,"Mexican, French",High,Vegan,4.36,111
+10959,20,Dubai Marina,Rarely,"Indian, Seafood",Low,Dairy-Free,3.1,93
+10960,58,Jumeirah Lakes Towers (JLT),Rarely,Thai,Luxury,Vegan,4.32,137
+10961,52,Sharjah,Bi-Weekly,"Italian, Chinese, Iranian",Medium,None,4.03,32
+10962,20,Sharjah,Daily,French,Low,Keto,3.58,42
+10963,50,Palm Jumeirah,Bi-Weekly,"Emirati, Chinese, Mediterranean",Low,Halal,3.12,40
+10964,28,Dubai Marina,Daily,"Mexican, Iranian",Low,Gluten-Free,3.83,5
+10965,27,Palm Jumeirah,Rarely,"Emirati, Iranian, Mexican",Luxury,Halal,3.93,127
+10966,29,Dubai Marina,Weekly,"Iranian, Italian",Low,Gluten-Free,3.32,132
+10967,44,Downtown Dubai,Daily,Emirati,Low,None,3.82,118
+10968,22,Palm Jumeirah,Monthly,"Thai, Mediterranean, Italian",Low,None,3.09,73
+10969,27,Sharjah,Rarely,"Mediterranean, Thai, Chinese",Medium,Vegan,4.41,96
+10970,25,Business Bay,Bi-Weekly,"Emirati, Seafood",High,Keto,3.8,9
+10971,52,Palm Jumeirah,Weekly,Mediterranean,High,Gluten-Free,3.82,44
+10972,41,Jumeirah Beach Residence (JBR),Daily,"Mexican, Thai, Italian",High,Halal,4.14,150
+10973,48,Dubai Marina,Weekly,"Thai, French",Low,Vegetarian,4.29,11
+10974,40,Business Bay,Weekly,"Italian, French, Mediterranean",Luxury,Vegan,3.19,1
+10975,38,Abu Dhabi,Monthly,Mexican,Medium,Gluten-Free,3.98,12
+10976,59,Ajman,Bi-Weekly,"French, Thai, Emirati",Low,Halal,3.99,128
+10977,29,Palm Jumeirah,Bi-Weekly,"Italian, Mediterranean",Low,Halal,3.47,119
+10978,53,Business Bay,Weekly,"Italian, Seafood, Mediterranean",Luxury,None,3.59,8
+10979,50,Jumeirah Beach Residence (JBR),Rarely,Emirati,Low,Keto,4.09,97
+10980,53,Dubai Marina,Monthly,French,Luxury,None,3.27,126
+10981,24,Jumeirah Beach Residence (JBR),Weekly,"French, Indian",Low,Halal,4.27,43
+10982,51,Palm Jumeirah,Monthly,"Mexican, French, Chinese",Low,None,3.6,30
+10983,52,Ajman,Daily,"Thai, Italian, Emirati",Luxury,None,3.97,37
+10984,32,Ajman,Weekly,"French, Mediterranean",High,None,3.05,84
+10985,57,Downtown Dubai,Weekly,"Seafood, Iranian, Emirati",Low,Halal,4.42,50
+10986,26,Business Bay,Monthly,"French, Indian, Emirati",Low,Keto,3.5,114
+10987,45,Ajman,Weekly,"Indian, Italian",High,Keto,4.45,69
+10988,38,Abu Dhabi,Bi-Weekly,"Mexican, Emirati",High,Gluten-Free,4.15,1
+10989,49,Al Barsha,Monthly,"Indian, French, Mediterranean",High,Vegetarian,3.42,28
+10990,57,Abu Dhabi,Weekly,"Iranian, Mexican",Medium,Vegan,4.29,19
+10991,56,Ajman,Rarely,Italian,Low,Vegan,3.94,105
+10992,27,Sharjah,Weekly,"Thai, French",High,Gluten-Free,4.47,105
+10993,49,Business Bay,Monthly,"Chinese, Mediterranean, Emirati",Luxury,Dairy-Free,4.34,61
+10994,26,Business Bay,Rarely,"Emirati, Mexican, Indian",High,Gluten-Free,4.38,148
+10995,41,Dubai Marina,Bi-Weekly,Mediterranean,Low,Dairy-Free,3.19,81
+10996,33,Business Bay,Monthly,Chinese,Low,Dairy-Free,3.24,141
+10997,27,Ajman,Rarely,"Seafood, Chinese, Mexican",Medium,Gluten-Free,3.99,7
+10998,24,Jumeirah Beach Residence (JBR),Monthly,"Thai, Emirati, French",Low,Gluten-Free,3.84,112
+10999,52,Sharjah,Monthly,"Mexican, Mediterranean",Low,Gluten-Free,3.02,100
+11000,50,Business Bay,Rarely,French,Low,Gluten-Free,3.29,105
